@@ -1,0 +1,212 @@
+﻿@model JobRequestDetailsViewModel
+
+
+@section Style {
+    <style>
+
+        /* General Styles */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        /* Titles */
+        .page-title {
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+        .page-subtitle {
+            font-size: 1.2rem;
+            font-style: italic;
+            color: #6c757d;
+        }
+
+        .section-title {
+            color: #3f51b5;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        /* Gallery */
+        .main-image {
+            max-height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+
+        .thumbnail {
+            max-width: 100px;
+            max-height: 100px;
+            margin: 5px;
+            border-radius: 5px;
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+
+            .thumbnail:hover {
+                transform: scale(1.1);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+
+        /* Cards */
+        .details-card, .offer-card {
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .offer-title {
+            color: #007bff;
+        }
+
+        .offer-price {
+            color: #28a745;
+        }
+
+        /* Form */
+        .offer-form {
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .submit-btn {
+            background: linear-gradient(45deg, #2196f3, #21cbf3);
+            border: none;
+            color: white;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+            .submit-btn:hover {
+                background: #0056b3;
+            }
+    </style>
+
+}
+
+
+
+
+<div class="container mt-5">
+    <!-- Title and Category -->
+    <div class="text-center mb-4">
+        <h1 class="page-title">@Model.Title</h1>
+        <p class="page-subtitle">@Model.CategoryName</p>
+    </div>
+
+    <!-- Gallery Section -->
+    <div class="mb-5">
+        <h3 class="text-center section-title">Gallery</h3>
+        @if (Model.Attachments != null && Model.Attachments.Count > 0)
+        {
+            <div class="row justify-content-center">
+                <!-- Main Image -->
+                <div class="col-md-8 mb-3 text-center">
+                    <img id="mainImage" src="@Model.Attachments[0]"
+                         class="main-image"
+                         alt="Main Attachment Image"
+                         onclick="showImageInModal(this.src)">
+                </div>
+
+                <!-- Thumbnails -->
+                <div class="col-md-10 d-flex flex-wrap justify-content-center">
+                    @for (int i = 0; i < Model.Attachments.Count; i++)
+                    {
+                        <img src="@Model.Attachments[i]"
+                             class="thumbnail"
+                             onclick="document.getElementById('mainImage').src = '@Model.Attachments[i]'"
+                             alt="Thumbnail Image">
+                    }
+                </div>
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">No attachments available.</p>
+        }
+    </div>
+
+    <!-- Job Details Section -->
+    <div class="mb-5">
+        <h3 class="section-title">Job Details</h3>
+        <div class="details-card">
+            <p><strong>Description:</strong> @Model.Description</p>
+            <p><strong>Location:</strong> @Model.Location</p>
+            <p><strong>Right Time:</strong> @Model.RightTime.ToString("f")</p>
+            <p>
+                <strong>Status:</strong>
+                <span class="badge @(Model.Status ? "bg-success" : "bg-danger")">@(Model.Status ? "Active" : "Closed")</span>
+            </p>
+        </div>
+    </div>
+
+    <!-- Offers Section -->
+    <div class="mb-5">
+        <h3 class="section-title">Offers</h3>
+        @if (Model.Offers != null && Model.Offers.Count > 0)
+        {
+            <div class="row">
+                @foreach (var offer in Model.Offers)
+                {
+                    <div class="col-md-6 col-lg-4 mb-4">
+                        <div class="offer-card">
+                            <div class="card-body">
+                                <h5 class="offer-title">@offer.UserName</h5>
+                                <p class="offer-text">@offer.NegotiationDetails</p>
+                                <p class="offer-price"><strong>Amount:</strong> @offer.Price.ToString("C")</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">No offers submitted yet.</p>
+        }
+    </div>
+
+    <!-- Submit Offer Section -->
+    <div class="mb-5">
+        <h3 class="section-title">Submit an Offer</h3>
+        <form asp-action="SubmitOffer" method="post" class="offer-form">
+            <input type="hidden" name="JobRequestId" value="@Model.Id" />
+            <div class="mb-3">
+                <label for="amount" class="form-label">Amount</label>
+                <input type="number" class="form-control" id="amount" name="Amount" placeholder="Enter your offer amount" required>
+            </div>
+            <div class="mb-3">
+                <label for="message" class="form-label">Message</label>
+                <textarea class="form-control" id="message" name="Message" rows="3" placeholder="Enter your message" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary submit-btn">Submit Offer</button>
+        </form>
+    </div>
+</div>
+
+<!-- Modal for Fullscreen Image -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <img id="modalImage" src="" class="img-fluid rounded" alt="Fullscreen Image">
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+
+<script>
+    function showImageInModal(src) {
+        document.getElementById('modalImage').src = src;
+        new bootstrap.Modal(document.getElementById('imageModal')).show();
+    }
+</script>
+}

@@ -1,0 +1,83 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "/Views/Shared/_AthaLayout.cshtml";
+}
+@section Style {
+    <style>
+
+        .main {
+            padding: 150;
+        }
+
+        .container {
+            margin-top:60;
+        }
+    </style>
+}
+<section class="sign-in">
+    <div class="container">
+        <div class="signin-content">
+            <div class="signin-image">
+                <figure><img src="~/AuthLayout/images/signin-image.jpg" alt="sign up image"></figure>
+                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="signup-image-link">Create an account</a>
+            </div>
+
+            <div class="signin-form">
+                <h2 class="form-title">Sign in</h2>
+                <form id="login-form" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                    <!-- Email Input -->
+                    <div class="form-group">
+                        <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input asp-for="Input.Email" id="your_name" class="form-control" autocomplete="username" placeholder="Your Email" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+
+                    <!-- Password Input -->
+                    <div class="form-group">
+                        <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                        <input asp-for="Input.Password" id="your_pass" class="form-control" autocomplete="current-password" placeholder="Password" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+
+                    <!-- Remember Me Checkbox -->
+                    <div class="form-group">
+                        <input asp-for="Input.RememberMe" id="remember-me" type="checkbox" class="agree-term" />
+                        <label for="remember-me" class="label-agree-term">
+                            <span><span></span></span>Remember me
+                        </label>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="form-group form-button">
+                        <button type="submit" id="signin" class="form-submit">Log in</button>
+                    </div>
+                </form>
+
+                <!-- Forgot Password and External Links -->
+                <p>
+                    <a asp-page="./ForgotPassword" id="forgot-password">Forgot your password?</a>
+                </p>
+                @if ((Model.ExternalLogins?.Count ?? 0) > 0)
+                {
+                    <div>
+                        <p>Use another service to log in:</p>
+                        <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                            @foreach (var provider in Model.ExternalLogins!)
+                            {
+                                <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                            }
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

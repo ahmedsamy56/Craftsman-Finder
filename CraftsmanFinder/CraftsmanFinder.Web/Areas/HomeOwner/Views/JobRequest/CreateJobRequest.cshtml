@@ -1,0 +1,87 @@
+﻿@model JobRequestViewModel
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">Create Job Request</h2>
+        </div>
+        <div class="card-body">
+            <form asp-action="CreateJobRequest" enctype="multipart/form-data" method="post">
+                <!-- Title -->
+                <div class="mb-4">
+                    <label for="title" class="form-label fw-bold">Title</label>
+                    <input type="text" class="form-control" id="title" name="Title" placeholder="Enter Job Title" required />
+                </div>
+
+                <!-- Description -->
+                <div class="mb-4">
+                    <label for="description" class="form-label fw-bold">Description</label>
+                    <textarea class="form-control" id="description" name="Description" rows="4" placeholder="Enter Job Description" required></textarea>
+                </div>
+
+                <!-- Location -->
+                <div class="mb-4">
+                    <label for="location" class="form-label fw-bold">Location</label>
+                    <input type="text" class="form-control" id="location" name="Location" placeholder="Enter Location" required />
+                </div>
+
+                <!-- Right Time -->
+                <div class="mb-4">
+                    <label for="rightTime" class="form-label fw-bold">Right Time</label>
+                    <input type="datetime-local" class="form-control" id="rightTime" name="RightTime" required />
+                </div>
+
+                <!-- Category -->
+                <div class="mb-4">
+                    <label for="categoryId" class="form-label fw-bold">Category</label>
+                    <select class="form-select" id="categoryId" name="CategoryId" required>
+                        <option value="">Select Category</option>
+                        @foreach (var category in Model.Categories)
+                        {
+                            <option value="@category.Id">@category.Name</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Attachments -->
+                <div class="mb-4">
+                    <label for="attachments" class="form-label fw-bold">Attachments</label>
+                    <div id="fileInputs">
+                        <div class="input-group mb-3">
+                            <input type="file" class="form-control" name="Attachments" />
+                            <button type="button" class="btn btn-outline-danger" onclick="removeFileInput(this)">Remove</button>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-success btn-sm" onclick="addFileInput()">
+                        <i class="bi bi-plus-circle"></i> Add Another Image
+                    </button>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg">
+                        <i class="bi bi-cloud-upload"></i> Submit
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        function addFileInput() {
+            const fileInputs = document.getElementById('fileInputs');
+            const inputGroup = document.createElement('div');
+            inputGroup.className = 'input-group mb-3';
+            inputGroup.innerHTML = `
+                <input type="file" class="form-control" name="Attachments" />
+                <button type="button" class="btn btn-outline-danger" onclick="removeFileInput(this)">Remove</button>
+            `;
+            fileInputs.appendChild(inputGroup);
+        }
+
+        function removeFileInput(button) {
+            button.parentElement.remove();
+        }
+    </script>
+}

@@ -1,0 +1,72 @@
+﻿@using CraftsmanFinder.Utilities
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search and Filter</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        html, body {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        }
+
+        .content {
+        flex: 1;
+        }
+
+        footer {
+        background-color: #343a40;
+        color: white;
+        text-align: center;
+        padding: 1rem 0;
+        }
+
+    </style>
+    @await RenderSectionAsync("Style", required: false)
+</head>
+<body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            @if (User.IsInRole(SD.CraftsmenRole))
+            {
+                <a class="navbar-brand" href="/Crafts/Home/Index">CraftsmanFinder</a>
+            }else if (User.IsInRole(SD.HomeOwnerRole)){
+                <a class="navbar-brand" href="/HomeOwner/Home/Index">CraftsmanFinder</a>
+            }
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    @if (User.IsInRole(SD.CraftsmenRole))
+                    {
+                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Crafts/Home/Index">Home</a></li>
+                    }
+                    else if (User.IsInRole(SD.HomeOwnerRole)){
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/HomeOwner/Home/Index">Home</a></li>
+                    }
+                    <partial name="_LoginPartial" />
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="content">
+
+    @RenderBody()
+    </div>
+
+    <footer class="py-3 bg-dark mt-4">
+        <div class="container">
+            <p class="m-0 text-center text-white">Copyright &copy; Your Website 2025</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

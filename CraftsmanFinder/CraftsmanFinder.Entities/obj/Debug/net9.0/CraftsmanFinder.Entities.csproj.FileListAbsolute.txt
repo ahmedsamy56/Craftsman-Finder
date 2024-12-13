@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.deps.json
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\refint\CraftsmanFinder.Entities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\ref\CraftsmanFinder.Entities.dll

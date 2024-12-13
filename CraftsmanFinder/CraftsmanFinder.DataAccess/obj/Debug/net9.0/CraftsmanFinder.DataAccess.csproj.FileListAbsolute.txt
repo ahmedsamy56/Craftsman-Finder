@@ -1,0 +1,17 @@
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.DataAccess.deps.json
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.DataAccess.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.DataAccess.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\refint\CraftsmanFinder.DataAccess.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\ref\CraftsmanFinder.DataAccess.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.DataAccess.runtimeconfig.json
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.Entities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\bin\Debug\net9.0\CraftsmanFinder.Entities.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\Craftsma.9497D8BC.Up2Date
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.DataAccess\obj\Debug\net9.0\CraftsmanFinder.DataAccess.genruntimeconfig.cache

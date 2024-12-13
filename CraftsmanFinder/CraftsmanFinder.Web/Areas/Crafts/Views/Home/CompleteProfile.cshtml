@@ -1,0 +1,43 @@
+﻿@section Style {
+    <style>
+        .card-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 999;
+        }
+
+        .card {
+            max-width: 400px;
+            width: 100%;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            background: white;
+            border-radius: 8px;
+            position: relative;
+        }
+
+        .warning-icon {
+            color: #ffcc00;
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+    </style>
+}
+
+<div class="card-wrapper">
+    <div class="card">
+        <div class="warning-icon">
+            &#9888;
+        </div>
+        <h3 class="mb-3">Complete Your Profile</h3>
+        <p class="mb-4">Complete your profile to unlock amazing features and functionality!</p>
+        <a href="/Crafts/Profile/CompleteProfile" class="btn btn-primary w-100">Proceed</a>
+    </div>
+</div>

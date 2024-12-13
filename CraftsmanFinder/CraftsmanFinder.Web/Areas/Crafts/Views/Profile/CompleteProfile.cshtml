@@ -1,0 +1,60 @@
+﻿@model CompleteProfileViewModel
+
+
+
+<div class="container d-flex flex-column justify-content-center align-items-center vh-100 mt-5 mb-5">
+    <div class="card w-50 mb-3">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Complete Your Profile</h3>
+            <form asp-action="CompleteProfile" method="post" enctype="multipart/form-data">
+                <!-- About Me -->
+                <div class="mb-3">
+                    <label for="aboutMe" class="form-label">About Me</label>
+                    <textarea id="aboutMe" name="AboutMe" class="form-control" rows="4" required>@Model.AboutMe</textarea>
+                </div>
+
+                <!-- Category Selection -->
+                <div class="mb-3">
+                    <label for="category" class="form-label">Choose Category</label>
+                    <select id="category" name="CategoryId" class="form-select" required>
+                        <option value="" disabled selected>Select a category</option>
+                        @foreach (var category in ViewBag.Categories)
+                        {
+                            <option value="@category.Value">@category.Text</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Certificates -->
+                <div id="certificate-container">
+                    <div class="mb-3 certificate-item">
+                        <label for="certificate-image" class="form-label">Certificate Image</label>
+                        <input type="file" name="certificateImages" class="form-control" required />
+
+                        <label for="description" class="form-label mt-2">Description</label>
+                        <textarea name="descriptions" class="form-control" placeholder="Enter a description" required></textarea>
+                    </div>
+                </div>
+
+                <!-- Add More Certificates Button -->
+                <button type="button" class="btn btn-primary w-100 mb-3" id="add-certificate-btn">Add Another Certificate</button>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-success w-100">Save</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        document.getElementById('add-certificate-btn').addEventListener('click', function () {
+            const container = document.getElementById('certificate-container');
+            const item = document.querySelector('.certificate-item').cloneNode(true);
+            item.querySelector('input').value = '';
+            item.querySelector('textarea').value = '';
+            container.appendChild(item);
+        });
+    </script>
+}

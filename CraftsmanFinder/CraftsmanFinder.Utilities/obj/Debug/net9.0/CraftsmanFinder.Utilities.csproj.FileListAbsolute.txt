@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\bin\Debug\net9.0\CraftsmanFinder.Utilities.deps.json
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\bin\Debug\net9.0\CraftsmanFinder.Utilities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\bin\Debug\net9.0\CraftsmanFinder.Utilities.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\refint\CraftsmanFinder.Utilities.dll
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\CraftsmanFinder.Utilities.pdb
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Utilities\obj\Debug\net9.0\ref\CraftsmanFinder.Utilities.dll

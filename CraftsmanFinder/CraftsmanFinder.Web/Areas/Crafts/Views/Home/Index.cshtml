@@ -1,0 +1,96 @@
+﻿@model IEnumerable<JobRequestListViewModel>
+<div class="container py-5">
+    <h1 class="text-center mb-4">Search and Filter</h1>
+
+    <!-- Search and Sort Controls -->
+    <div class="row mb-4">
+        <div class="col-md-6 offset-md-3">
+            <input type="text" id="searchBox" class="form-control mb-2" placeholder="Search by title, place, or date...">
+            <select id="sortSelect" class="form-select">
+                <option value="" selected>Sort by Date</option>
+                <option value="asc">Ascending</option>
+                <option value="desc">Descending</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Cards Section -->
+    <div class="row" id="cardsContainer">
+
+
+        <!-- Cards Section -->
+        <div class="row" id="cardsContainer">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <div class="col-md-4 mb-4 card-item">
+                        <div class="card">
+                            <img src="\@item.ImagePath" class="card-img-top" alt="@item.Title">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.Title</h5>
+                                <p class="card-text">Place: @item.Location</p>
+
+                                <p hidden class="card-text">Date: @item.Created.ToString("yyyy-MM-dd")</p>
+                                <a href="#" class="btn btn-primary mt-2">View</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12">
+                    <p class="text-center">No items found.</p>
+                </div>
+            }
+        </div>
+
+      
+
+
+    </div>
+</div>
+
+
+
+
+
+
+@section Scripts {
+<script>
+    // Search Functionality
+    document.getElementById('searchBox').addEventListener('input', function() {
+        const searchText = this.value.toLowerCase();
+        const cards = document.querySelectorAll('.card-item');
+
+        cards.forEach(card => {
+            const title = card.querySelector('.card-title').textContent.toLowerCase();
+            const place = card.querySelector('.card-text:nth-child(2)').textContent.toLowerCase();
+            const date = card.querySelector('.card-text:nth-child(3)').textContent.toLowerCase();
+
+            if (title.includes(searchText) || place.includes(searchText) || date.includes(searchText)) {
+                card.style.display = '';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+
+
+    document.getElementById('sortSelect').addEventListener('change', function() {
+        const sortOrder = this.value;
+        const container = document.getElementById('cardsContainer');
+        const cards = Array.from(container.getElementsByClassName('card-item'));
+
+        cards.sort((a, b) => {
+            const dateA = new Date(a.querySelector('.card-text:nth-child(3)').textContent.split(': ')[1]);
+            const dateB = new Date(b.querySelector('.card-text:nth-child(3)').textContent.split(': ')[1]);
+
+            return sortOrder === 'asc' ? dateA - dateB : dateB - dateA;
+        });
+
+        cards.forEach(card => container.appendChild(card));
+    });
+</script>
+}
