@@ -53,6 +53,7 @@ namespace CraftsmanFinder.DataAccess.Repository
                     UserName = o.ApplicationUser?.Name,
                     ApplicationUserId = o.ApplicationUserId,
                     Price = o.Price,
+                    status = o.status,
                     NegotiationDetails = o.NegotiationDetails
                 }).ToList() ?? new List<OfferViewModel>()
             };

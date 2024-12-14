@@ -3,6 +3,7 @@ using CraftsmanFinder.Entities.Models;
 using CraftsmanFinder.Entities.ViewModel;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
 {
@@ -131,6 +132,40 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
                 await _unitOfWork.Offers.DeleteAsync(offer);
                 await _unitOfWork.SaveAsync();
 
+
+                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+            }
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AcceptOffer(int offerId)
+        {
+            int JobRequestId = 0;   
+            try
+            {
+                // Validate user permissions
+                var offer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == offerId);
+                JobRequestId = offer.JobRequestId;
+                if (offer == null)
+                {
+                    return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+                }
+
+                var userId = _userManager.GetUserId(User);
+                var jobRequest = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id == JobRequestId);
+
+                if (jobRequest == null || jobRequest.ApplicationUserId != userId)
+                {
+                    return Unauthorized();
+                }
+
+                // Accept the offer
+                await _unitOfWork.Offers.AcceptOfferAsync(offerId);
 
                 return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
             }

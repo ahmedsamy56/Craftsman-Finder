@@ -13,6 +13,8 @@ namespace CraftsmanFinder.DataAccess.Repository.IRepository
         Task<IEnumerable<Offer>> GetOffersByUserIdAsync(string userId);
         Task<IEnumerable<Offer>> GetAcceptedOffersAsync();
         Task<IEnumerable<Offer>> GetSortedOffersByPriceAsync(bool ascending = true);
+        Task AcceptOfferAsync(int offerId);
+
     }
 
 }

@@ -1,4 +1,5 @@
-﻿@model JobRequestDetailsViewModel
+﻿@using CraftsmanFinder.Utilities
+@model JobRequestDetailsViewModel
 
 
 @section Style {
@@ -132,7 +133,7 @@
         {
             <p class="text-muted">No attachments available.</p>
         }
-        @if (Model.ApplicationUserId == @User.FindFirstValue(ClaimTypes.NameIdentifier))
+        @if (Model.ApplicationUserId == @User.FindFirstValue(ClaimTypes.NameIdentifier) && Model.Status == false)
         {
             <div class="mt-3 text-center">
                 <a href="@Url.Action("UpdateAttachments", "Attachment", new { id = Model.Id })" class="btn btn-outline-secondary">Update Attachments</a>
@@ -149,10 +150,10 @@
             <p><strong>Right Time:</strong> @Model.RightTime.ToString("f")</p>
             <p>
                 <strong>Status:</strong>
-                <span class="badge @(Model.Status ? "bg-success" : "bg-danger")">@(Model.Status ? "Active" : "Closed")</span>
+                <span class="badge @(!Model.Status ? "bg-success" : "bg-danger")">@(Model.Status ? "Closed" : "Active")</span>
             </p>
         </div>
-        @if (Model.ApplicationUserId == @User.FindFirstValue(ClaimTypes.NameIdentifier))
+        @if (Model.ApplicationUserId == @User.FindFirstValue(ClaimTypes.NameIdentifier) && Model.Status == false)
         {
             <div class="mt-3">
                 <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-outline-primary">Update Job Details</a>
@@ -170,28 +171,47 @@
                     <div class="col-md-6 col-lg-4 mb-4">
                         <div class="offer-card">
                             <div class="card-body">
+                                <a id="manage"
+                                   class="nav-link text-light"
+                                   href="/Crafts/Profile/index/@offer.ApplicationUserId"
+                                   title="profile">
+                                
                                 <h5 class="offer-title">@offer.UserName</h5>
+                                </a>
                                 <p class="offer-text">@offer.NegotiationDetails</p>
                                 <p class="offer-price"><strong>Amount:</strong> @offer.Price</p>
-                                @if (offer.ApplicationUserId == User.FindFirstValue(ClaimTypes.NameIdentifier))
+
+                                @if (offer.status == true)
                                 {
-                                    <button class="btn btn-sm btn-primary"
-                                            data-bs-toggle="modal"
-                                            data-bs-target="#editOfferModal"
-                                            data-offer-id="@offer.Id"
-                                            data-job-request-id="@offer.JobRequestId"
-                                            data-message="@offer.NegotiationDetails"
-                                            data-amount="@offer.Price">
-                                        Edit
-                                    </button>
-
-                                    <button class="btn btn-sm btn-danger"
-                                            data-bs-toggle="modal"
-                                            data-bs-target="#deleteOfferModal"
-                                            data-offer-id="@offer.Id">
-                                        Delete
-                                    </button>
-
+                                    <span class="badge bg-success">Accepted</span>
+                                }
+                                else
+                                {
+                                    @if (offer.ApplicationUserId == User.FindFirstValue(ClaimTypes.NameIdentifier) && Model.Status == false)
+                                    {
+                                        <button class="btn btn-sm btn-primary"
+                                                data-bs-toggle="modal"
+                                                data-bs-target="#editOfferModal"
+                                                data-offer-id="@offer.Id"
+                                                data-job-request-id="@offer.JobRequestId"
+                                                data-message="@offer.NegotiationDetails"
+                                                data-amount="@offer.Price">
+                                            Edit
+                                        </button>
+                                        <button class="btn btn-sm btn-danger"
+                                                data-bs-toggle="modal"
+                                                data-bs-target="#deleteOfferModal"
+                                                data-offer-id="@offer.Id">
+                                            Delete
+                                        </button>
+                                    }
+                                    @if (Model.ApplicationUserId == User.FindFirstValue(ClaimTypes.NameIdentifier) && Model.Status == false)
+                                    {
+                                        <form method="post" asp-action="AcceptOffer" asp-controller="Offer" class="d-inline">
+                                            <input type="hidden" name="offerId" value="@offer.Id" />
+                                            <button type="submit" class="btn btn-sm btn-success">Accept</button>
+                                        </form>
+                                    }
                                 }
                             </div>
                         </div>
@@ -204,6 +224,7 @@
             <p class="text-muted">No offers submitted yet.</p>
         }
     </div>
+
 
     <!-- Bootstrap Edit Offer Modal -->
     <div class="modal fade" id="editOfferModal" tabindex="-1" aria-labelledby="editOfferModalLabel" aria-hidden="true">
@@ -265,23 +286,25 @@
         </div>
     </div>
 
-
-    <!-- Submit Offer Section -->
-    <div class="mb-5">
-        <h3 class="section-title">Submit an Offer</h3>
-        <form asp-controller="Offer" asp-action="SubmitOffer" method="post" class="offer-form">
-            <input type="hidden" name="JobRequestId" value="@Model.Id" />
-            <div class="mb-3">
-                <label for="amount" class="form-label">Amount</label>
-                <input type="number" class="form-control" id="amount" name="Amount" placeholder="Enter your offer amount" required>
-            </div>
-            <div class="mb-3">
-                <label for="message" class="form-label">Message</label>
-                <textarea class="form-control" id="message" name="Message" rows="3" placeholder="Enter your message" required></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary submit-btn">Submit Offer</button>
-        </form>
-    </div>
+    @if (Model.Status == false && User.IsInRole(SD.CraftsmenRole))
+    {
+        <!-- Submit Offer Section -->
+        <div class="mb-5">
+            <h3 class="section-title">Submit an Offer</h3>
+            <form asp-controller="Offer" asp-action="SubmitOffer" method="post" class="offer-form">
+                <input type="hidden" name="JobRequestId" value="@Model.Id" />
+                <div class="mb-3">
+                    <label for="amount" class="form-label">Amount</label>
+                    <input type="number" class="form-control" id="amount" name="Amount" placeholder="Enter your offer amount" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" name="Message" rows="3" placeholder="Enter your message" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary submit-btn">Submit Offer</button>
+            </form>
+        </div>
+    }
 
 </div>
 

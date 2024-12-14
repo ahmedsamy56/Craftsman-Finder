@@ -13,6 +13,7 @@ namespace CraftsmanFinder.Entities.ViewModel
         public string UserName { get; set; }
         public string ApplicationUserId { get; set; }
         public decimal Price { get; set; }
+        public bool status { get; set; }
         public string NegotiationDetails { get; set; }
     }
 }

@@ -18,6 +18,7 @@ namespace CraftsmanFinder.DataAccess.Repository
             _context = context;
         }
 
+
         public async Task<IEnumerable<Offer>> GetAcceptedOffersAsync()
         {
             return await _context.offers
@@ -61,7 +62,30 @@ namespace CraftsmanFinder.DataAccess.Repository
             }
 
             existingOffer.NegotiationDetails = offer.NegotiationDetails;
-            existingOffer.Price = offer.Price;;
+            existingOffer.Price = offer.Price; ;
+            await _context.SaveChangesAsync();
+        }
+
+
+        public async Task AcceptOfferAsync(int offerId)
+        {
+  
+            var offer = await _context.offers.Include(o => o.JobRequest).FirstOrDefaultAsync(o => o.Id == offerId);
+
+            if (offer == null)
+            {
+                throw new Exception("Offer not found.");
+            }
+
+            offer.status = true;
+
+            if (offer.JobRequest != null)
+            {
+                offer.JobRequest.Status = true;
+                _context.jobRequests.Update(offer.JobRequest);
+            }
+            _context.offers.Update(offer);
+
             await _context.SaveChangesAsync();
         }
     }
