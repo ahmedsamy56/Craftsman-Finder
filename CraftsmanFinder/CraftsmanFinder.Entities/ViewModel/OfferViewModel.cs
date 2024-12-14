@@ -11,6 +11,7 @@ namespace CraftsmanFinder.Entities.ViewModel
         public int Id { get; set; }
         public int JobRequestId { get; set; }
         public string UserName { get; set; }
+        public string ApplicationUserId { get; set; }
         public decimal Price { get; set; }
         public string NegotiationDetails { get; set; }
     }

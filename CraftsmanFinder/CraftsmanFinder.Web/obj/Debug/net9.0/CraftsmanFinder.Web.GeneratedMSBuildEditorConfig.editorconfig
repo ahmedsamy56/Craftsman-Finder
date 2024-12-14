@@ -52,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3JhZnRzXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ahmed/Desktop/Craftsman Finder System/CraftsmanFinder/CraftsmanFinder.Web/Areas/HomeOwner/Views/Attachment/UpdateAttachments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZU93bmVyXFZpZXdzXEF0dGFjaG1lbnRcVXBkYXRlQXR0YWNobWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ahmed/Desktop/Craftsman Finder System/CraftsmanFinder/CraftsmanFinder.Web/Areas/HomeOwner/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZU93bmVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

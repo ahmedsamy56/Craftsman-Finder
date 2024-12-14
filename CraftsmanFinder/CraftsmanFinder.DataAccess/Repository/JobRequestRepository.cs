@@ -25,6 +25,8 @@ namespace CraftsmanFinder.DataAccess.Repository
             var jobRequest = await _context.jobRequests
                 .Include(j => j.Attachment)
                 .Include(j => j.Category)
+                .Include(j => j.offers) 
+                    .ThenInclude(o => o.ApplicationUser) 
                 .FirstOrDefaultAsync(j => j.Id == jobRequestId);
 
             if (jobRequest == null)
@@ -40,11 +42,22 @@ namespace CraftsmanFinder.DataAccess.Repository
                 Location = jobRequest.Location,
                 RightTime = jobRequest.RightTime,
                 Status = jobRequest.Status,
+                ApplicationUserId = jobRequest.ApplicationUserId,
                 CategoryName = jobRequest.Category?.Name,
                 CategoryId = jobRequest.CategoryId,
-                Attachments = jobRequest.Attachment?.Select(a => a.FilePath).ToList() ?? new List<string>()
+                Attachments = jobRequest.Attachment?.Select(a => a.FilePath).ToList() ?? new List<string>(),
+                Offers = jobRequest.offers?.Select(o => new OfferViewModel
+                {
+                    Id = o.Id,
+                    JobRequestId = o.JobRequestId,
+                    UserName = o.ApplicationUser?.Name,
+                    ApplicationUserId = o.ApplicationUserId,
+                    Price = o.Price,
+                    NegotiationDetails = o.NegotiationDetails
+                }).ToList() ?? new List<OfferViewModel>()
             };
         }
+
 
         public async Task<IEnumerable<JobRequestListViewModel>> GetByCategoryAndStatusAsync(int categoryId, bool status = false)
         {
@@ -84,14 +97,6 @@ namespace CraftsmanFinder.DataAccess.Repository
             existingJobRequest.Status = jobRequest.Status;
             existingJobRequest.CategoryId = jobRequest.CategoryId;
 
-            if (jobRequest.Attachment != null)
-            {
-                existingJobRequest.Attachment.Clear();
-                foreach (var attachment in jobRequest.Attachment)
-                {
-                    existingJobRequest.Attachment.Add(attachment);
-                }
-            }
             await _context.SaveChangesAsync();
         }
 

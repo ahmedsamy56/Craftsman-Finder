@@ -20,6 +20,7 @@ namespace CraftsmanFinder.Entities.Models
         public Category? Category { get; set; }
         public ApplicationUser? ApplicationUser { get; set; }
         public ICollection<JobRequestAttachment>? Attachment { get; set; }
+        public ICollection<Offer>? offers { get; set; }
 
     }
 }

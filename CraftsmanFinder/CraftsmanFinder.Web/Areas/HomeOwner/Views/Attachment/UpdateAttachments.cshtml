@@ -1,0 +1,80 @@
+﻿@model JobRequestAttachmentUpdateViewModel
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">Update Attachments</h2>
+        </div>
+        <div class="card-body">
+            <!-- Instructions -->
+            <p class="text-muted">
+                Below are the current attachments for this job request. You can preview them and mark the checkbox to delete any attachment. To add new attachments, use the "Add Another Attachment" button.
+            </p>
+
+            <form asp-action="UpdateAttachments" method="post" enctype="multipart/form-data">
+                <input type="hidden" name="JobRequestId" value="@Model.JobRequestId" />
+
+                <!-- Existing Attachments -->
+                <div class="mb-4">
+                    <label class="form-label fw-bold">Existing Attachments</label>
+                    <div class="row">
+                        @foreach (var attachment in Model.ExistingAttachments)
+                        {
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img src="@attachment.FilePath" class="card-img-top img-thumbnail" alt="Attachment Preview" />
+                                    <div class="card-body text-center">
+                                        <label>
+                                            <input type="checkbox" name="attachmentsToRemove" value="@attachment.Id" />
+                                            Delete
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <!-- Add New Attachments -->
+                <div class="mb-4">
+                    <label for="newAttachments" class="form-label fw-bold">Add New Attachments</label>
+                    <div id="fileInputs">
+                        <div class="input-group mb-3">
+                            <input type="file" class="form-control" name="newAttachments" />
+                            <button type="button" class="btn btn-outline-danger" onclick="removeFileInput(this)">Remove</button>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-success btn-sm" onclick="addFileInput()">
+                        <i class="bi bi-plus-circle"></i> Add Another Attachment
+                    </button>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg">
+                        <i class="bi bi-cloud-upload"></i> Submit
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function addFileInput() {
+            const fileInputs = document.getElementById('fileInputs');
+            const inputGroup = document.createElement('div');
+            inputGroup.className = 'input-group mb-3';
+            inputGroup.innerHTML = `
+                <input type="file" class="form-control" name="newAttachments" />
+                <button type="button" class="btn btn-outline-danger" onclick="removeFileInput(this)">Remove</button>
+            `;
+            fileInputs.appendChild(inputGroup);
+        }
+
+        function removeFileInput(button) {
+            button.parentElement.remove();
+        }
+    </script>
+}
