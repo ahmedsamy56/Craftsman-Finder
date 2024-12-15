@@ -5094,24 +5094,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CraftsmanFinder.Web</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CraftsmanFinder.Web</BasePath>
-      <RelativePath>uploads/certificates/88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j4vyn0rene</Fingerprint>
-      <Integrity>E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CraftsmanFinder.Web</SourceId>

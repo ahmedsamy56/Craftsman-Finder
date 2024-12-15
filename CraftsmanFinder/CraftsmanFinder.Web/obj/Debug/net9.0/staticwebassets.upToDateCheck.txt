@@ -437,7 +437,6 @@ wwwroot\uploads\certificates\075bceee-018e-412f-bae4-93c274f9b6bd.png
 wwwroot\uploads\certificates\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg
 wwwroot\uploads\certificates\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg
 wwwroot\uploads\certificates\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg
-wwwroot\uploads\certificates\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg
 wwwroot\uploads\profile\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png
 wwwroot\uploads\profile\9d373f8d-66b2-4947-8907-096984a41d23.png
 wwwroot\uploads\profile\b9ea4a3c-14ac-4c22-915a-0b501b309935.jpg

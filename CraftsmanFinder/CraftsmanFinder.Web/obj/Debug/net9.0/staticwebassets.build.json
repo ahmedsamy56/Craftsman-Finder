@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "33YLgiJpgULB9d4ycDeSVkU1am2X7sT8nRzS5M+HfBo=",
+  "Hash": "0sCD27rV0n0dW3PCQl6IM+3/RcLW/z/zRMsw0CSmoDw=",
   "Source": "CraftsmanFinder.Web",
   "BasePath": "_content/CraftsmanFinder.Web",
   "Mode": "Default",
@@ -11943,27 +11943,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\certificates\\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg",
-      "SourceId": "CraftsmanFinder.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
-      "BasePath": "_content/CraftsmanFinder.Web",
-      "RelativePath": "uploads/certificates/88826c29-52b4-49ff-8cf8-6e73cf4c75fb#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "j4vyn0rene",
-      "Integrity": "E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\certificates\\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png",
@@ -80584,88 +80563,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-n0OhcGt0m5OSQFv58uv0UOokKoThonF+ceAkS23heDk="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/certificates/88826c29-52b4-49ff-8cf8-6e73cf4c75fb.j4vyn0rene.jpg",
-      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "143459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 20:54:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j4vyn0rene"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/certificates/88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/certificates/88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg",
-      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\88826c29-52b4-49ff-8cf8-6e73cf4c75fb.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "143459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 20:54:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k="
         }
       ]
     },
