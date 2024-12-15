@@ -26,6 +26,7 @@ namespace CraftsmanFinder.DataAccess.Repository
         public IOfferRepository Offers { get; private set; }
 
         public IReviewRepository Reviews { get; private set; }
+        public INotificationRepository Notifications { get; private set; }
 
         public UnitOfWork(AppDbContext context, UserManager<ApplicationUser> userManager)
         {
@@ -37,6 +38,7 @@ namespace CraftsmanFinder.DataAccess.Repository
             Attachments = new JobRequestAttachmentRepository(context);
             Offers = new OfferRepository(context);
             Reviews = new ReviewRepository(context); 
+            Notifications = new NotificationRepository(context);
 
         }
         public void Dispose()

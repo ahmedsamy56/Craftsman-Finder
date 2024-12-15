@@ -15,6 +15,7 @@ namespace CraftsmanFinder.DataAccess.Repository.IRepository
         IJobRequestAttachmentRepository Attachments { get; }
         IOfferRepository Offers { get; }
         IReviewRepository Reviews { get; }
+        INotificationRepository Notifications { get; }
 
         Task SaveAsync();
 

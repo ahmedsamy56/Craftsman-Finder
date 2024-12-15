@@ -1,10 +1,12 @@
 ﻿using CraftsmanFinder.DataAccess.Data;
 using CraftsmanFinder.DataAccess.Repository.IRepository;
 using CraftsmanFinder.Entities.Models;
+using CraftsmanFinder.Utilities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -85,7 +87,33 @@ namespace CraftsmanFinder.DataAccess.Repository
                 _context.jobRequests.Update(offer.JobRequest);
             }
             _context.offers.Update(offer);
+            var notifiCraftsman = new Notification
+            {
+                Title = "Your offer has been accepted.",
+                Type = NotificationType.Accepted,
+                Content = "I have good news, your job application has just been approved. Now contact HomeOwner and do your job.",
+                Sender = NotificationSender.System,
+                NeedAction = true,
+                Link = $"/HomeOwner/JobRequest/JobRequestDetails/{offer.JobRequestId}",
+                IsWatched = false,
+                ApplicationUserId = offer.ApplicationUserId
 
+            };
+
+            var notifiHomeOwner = new Notification
+            {
+                Title = "Submit a review of your last job.",
+                Type = NotificationType.Review,
+                Content = "You just accepted a quote from a Craftsman, wait until after the job is done and the Craftsman gives you a fair review and states everything according to the guidelines.",
+                Sender = NotificationSender.System, 
+                NeedAction = true,
+                Link = $"/HomeOwner/Review/Create?applicationUserId={offer.ApplicationUserId}&jobRequestId={offer.JobRequestId}",
+                IsWatched = false,
+                ApplicationUserId = offer.JobRequest.ApplicationUserId
+
+            };
+            await _context.AddAsync(notifiCraftsman);
+            await _context.AddAsync(notifiHomeOwner);
             await _context.SaveChangesAsync();
         }
     }

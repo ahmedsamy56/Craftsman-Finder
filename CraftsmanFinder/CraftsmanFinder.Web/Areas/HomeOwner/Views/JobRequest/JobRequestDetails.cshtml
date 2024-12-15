@@ -145,6 +145,7 @@
     <div class="mb-5">
         <h3 class="section-title">Job Details</h3>
         <div class="details-card">
+            <a href="/HomeOwner/Profile/index/@Model.ApplicationUserId"><p><strong>HomeOwner:</strong> @Model.HomeOwner</p></a>
             <p><strong>Description:</strong> @Model.Description</p>
             <p><strong>Location:</strong> @Model.Location</p>
             <p><strong>Right Time:</strong> @Model.RightTime.ToString("f")</p>
@@ -209,7 +210,10 @@
                                     {
                                         <form method="post" asp-action="AcceptOffer" asp-controller="Offer" class="d-inline">
                                             <input type="hidden" name="offerId" value="@offer.Id" />
-                                            <button type="submit" class="btn btn-sm btn-success">Accept</button>
+                                            <div style="text-align: center;">
+                                                <button type="submit" class="btn btn-sm btn-success" style="width: 300px;">Accept</button>
+                                            </div>
+
                                         </form>
                                     }
                                 }

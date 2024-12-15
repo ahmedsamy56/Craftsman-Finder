@@ -23,7 +23,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             _unitOfWork = IUnitOfWork;
         }
 
-
+        [AllowAnonymous]
         public async Task<IActionResult> JobRequestDetails(int id)
         {
             var model = await _unitOfWork.JobRequests.GetDetailsAsync(id);

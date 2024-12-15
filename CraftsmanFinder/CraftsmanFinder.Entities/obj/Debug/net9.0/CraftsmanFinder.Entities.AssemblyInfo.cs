@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraftsmanFinder.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8fada604565265479e6b69ff9ec526c324d464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f3b8f88a2a11ae9cba6e493c17df37e85be149")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraftsmanFinder.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraftsmanFinder.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

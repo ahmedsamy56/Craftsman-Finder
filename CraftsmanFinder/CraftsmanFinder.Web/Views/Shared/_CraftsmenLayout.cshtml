@@ -6,23 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search and Filter</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
         html, body {
-        height: 100%;
-        margin: 0;
-        display: flex;
-        flex-direction: column;
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
         }
 
         .content {
-        flex: 1;
+            flex: 1;
         }
 
         footer {
-        background-color: #343a40;
-        color: white;
-        text-align: center;
-        padding: 1rem 0;
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+
+        .notification-icon {
+            position: relative;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: white; 
+        }
+
+        .notification-badge {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background-color: red;
+            color: white;
+            border-radius: 50%;
+            font-size: 0.75rem;
+            padding: 2px 6px;
+            transform: translate(50%, -50%);
+        }
+
+        .nav-item .dropdown-menu .dropdown-item:hover {
+            background-color: transparent;
+            color: inherit;
         }
 
     </style>
@@ -35,7 +60,9 @@
             @if (User.IsInRole(SD.CraftsmenRole))
             {
                 <a class="navbar-brand" href="/Crafts/Home/Index">CraftsmanFinder</a>
-            }else if (User.IsInRole(SD.HomeOwnerRole)){
+            }
+            else if (User.IsInRole(SD.HomeOwnerRole))
+            {
                 <a class="navbar-brand" href="/HomeOwner/Home/Index">CraftsmanFinder</a>
             }
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -43,21 +70,41 @@
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     @if (User.IsInRole(SD.CraftsmenRole))
                     {
-                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Crafts/Home/Index">Home</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Crafts/Home/Index">Home</a></li>
                     }
-                    else if (User.IsInRole(SD.HomeOwnerRole)){
+                    else if (User.IsInRole(SD.HomeOwnerRole))
+                    {
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/HomeOwner/Home/Index">Home</a></li>
                     }
                     <partial name="_LoginPartial" />
+
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <!-- Notifications Dropdown -->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fas fa-bell notification-icon">
+                                        <!-- Badge for notifications -->
+                                    </i>
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown" id="notificationList">
+                                  
+                                 
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item text-center" href="#">View All</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                  
                 </ul>
             </div>
         </div>
     </nav>
 
-
     <div class="content">
-
-    @RenderBody()
+        @RenderBody()
     </div>
 
     <footer class="py-3 bg-dark mt-4">
@@ -65,8 +112,46 @@
             <p class="m-0 text-center text-white">Copyright &copy; Your Website 2025</p>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: '/HomeOwner/Notification/GetNotifications', 
+                type: 'GET',
+                success: function (notifications) {
+                    $('#notificationList').empty();
+
+                    if (notifications && notifications.length > 0) {
+                        notifications.forEach(function (notification) {
+                                   $('#notificationList').append(
+                                        `<li style="background: ${notification.isWatched ? "initial" : 'rgb(206, 206, 232);'};">
+                                            <a class="dropdown-item" href="/HomeOwner/Notification/ViewNotification/${notification.id}">
+                                                ${notification.title}
+                                            </a>
+                                        </li>`
+                                    );
+                        });
+                    } else {
+                        $('#notificationList').append(
+                            `<li><a class="dropdown-item text-center" href="#">No new notifications</a></li>`
+                        );
+                    }
+
+                    $('#notificationList').append(
+                        `<li><hr class="dropdown-divider"></li>
+                         <li><a class="dropdown-item text-center" href="#">View All</a></li>`
+                    );
+                },
+                error: function (error) {
+                    console.error('Error fetching notifications:', error);
+                }
+            });
+        });
+    </script>
+
+
 </body>
 </html>

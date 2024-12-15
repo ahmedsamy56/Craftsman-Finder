@@ -14,6 +14,7 @@ namespace CraftsmanFinder.Entities.ViewModel
         public string Location { get; set; }
         public DateTime RightTime { get; set; }
         public bool Status { get; set; }
+        public string HomeOwner { get; set; }
         public string ApplicationUserId { get; set; }
         public string CategoryName { get; set; }
         public int CategoryId { get; set; }

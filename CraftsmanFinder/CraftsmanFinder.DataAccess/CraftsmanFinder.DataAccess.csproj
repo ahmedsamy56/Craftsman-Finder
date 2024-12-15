@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CraftsmanFinder.Entities\CraftsmanFinder.Entities.csproj" />
+    <ProjectReference Include="..\CraftsmanFinder.Utilities\CraftsmanFinder.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

@@ -61,7 +61,8 @@ namespace CraftsmanFinder.DataAccess.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(1000)
+                        .HasColumnType("nvarchar(1000)");
 
                     b.Property<string>("FilePath")
                         .IsRequired()
@@ -139,6 +140,50 @@ namespace CraftsmanFinder.DataAccess.Migrations
                     b.HasIndex("JobRequestId");
 
                     b.ToTable("Attachments");
+                });
+
+            modelBuilder.Entity("CraftsmanFinder.Entities.Models.Notification", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ApplicationUserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsWatched")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Link")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("NeedAction")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Sender")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Type")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ApplicationUserId");
+
+                    b.ToTable("notifications");
                 });
 
             modelBuilder.Entity("CraftsmanFinder.Entities.Models.Offer", b =>
@@ -457,7 +502,7 @@ namespace CraftsmanFinder.DataAccess.Migrations
             modelBuilder.Entity("CraftsmanFinder.Entities.Models.JobRequest", b =>
                 {
                     b.HasOne("CraftsmanFinder.Entities.Models.ApplicationUser", "ApplicationUser")
-                        .WithMany()
+                        .WithMany("JobRequests")
                         .HasForeignKey("ApplicationUserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -484,6 +529,17 @@ namespace CraftsmanFinder.DataAccess.Migrations
                     b.Navigation("JobRequest");
                 });
 
+            modelBuilder.Entity("CraftsmanFinder.Entities.Models.Notification", b =>
+                {
+                    b.HasOne("CraftsmanFinder.Entities.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("ApplicationUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
             modelBuilder.Entity("CraftsmanFinder.Entities.Models.Offer", b =>
                 {
                     b.HasOne("CraftsmanFinder.Entities.Models.ApplicationUser", "ApplicationUser")
@@ -493,7 +549,7 @@ namespace CraftsmanFinder.DataAccess.Migrations
                         .IsRequired();
 
                     b.HasOne("CraftsmanFinder.Entities.Models.JobRequest", "JobRequest")
-                        .WithMany()
+                        .WithMany("offers")
                         .HasForeignKey("JobRequestId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -592,10 +648,14 @@ namespace CraftsmanFinder.DataAccess.Migrations
             modelBuilder.Entity("CraftsmanFinder.Entities.Models.JobRequest", b =>
                 {
                     b.Navigation("Attachment");
+
+                    b.Navigation("offers");
                 });
 
             modelBuilder.Entity("CraftsmanFinder.Entities.Models.ApplicationUser", b =>
                 {
+                    b.Navigation("JobRequests");
+
                     b.Navigation("Reviews");
 
                     b.Navigation("certificates");

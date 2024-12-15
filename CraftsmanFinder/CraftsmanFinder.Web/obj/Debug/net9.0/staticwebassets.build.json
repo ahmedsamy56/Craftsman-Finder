@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U67f2adyOcuhXh7/woONgb9r4P8lhktxf3G1rJc5TQU=",
+  "Hash": "tmb573+VyvhheGCaaUZFbgzGcDwXUVGGMKH3yBGbbQ0=",
   "Source": "CraftsmanFinder.Web",
   "BasePath": "_content/CraftsmanFinder.Web",
   "Mode": "Default",
@@ -7976,6 +7976,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg"
     },
     {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg",
+      "SourceId": "CraftsmanFinder.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
+      "BasePath": "_content/CraftsmanFinder.Web",
+      "RelativePath": "uploads/Attachments/6ca60c64-b3e4-4657-83fb-8384303b955e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1toxokhk93",
+      "Integrity": "1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg",
       "SourceId": "CraftsmanFinder.Web",
       "SourceType": "Discovered",
@@ -8016,6 +8037,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\IMG20221001104324.jpg",
+      "SourceId": "CraftsmanFinder.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
+      "BasePath": "_content/CraftsmanFinder.Web",
+      "RelativePath": "uploads/Attachments/IMG20221001104324#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cqo6jyjphn",
+      "Integrity": "tO1EnrsRtGh+PIrLadECQn4S6F3KJlSwdn/RbmuGP7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\IMG20221001104324.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\index.jpg",
+      "SourceId": "CraftsmanFinder.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
+      "BasePath": "_content/CraftsmanFinder.Web",
+      "RelativePath": "uploads/Attachments/index#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1kpnf10t7f",
+      "Integrity": "ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\index.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\windows-xp-bliss.jpg",
+      "SourceId": "CraftsmanFinder.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
+      "BasePath": "_content/CraftsmanFinder.Web",
+      "RelativePath": "uploads/Attachments/windows-xp-bliss#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4vyn0rene",
+      "Integrity": "E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\windows-xp-bliss.jpg"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\075bceee-018e-412f-bae4-93c274f9b6bd.png",
@@ -52114,6 +52198,88 @@
       ]
     },
     {
+      "Route": "uploads/Attachments/6ca60c64-b3e4-4657-83fb-8384303b955e.1toxokhk93.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1toxokhk93"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Attachments/6ca60c64-b3e4-4657-83fb-8384303b955e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/6ca60c64-b3e4-4657-83fb-8384303b955e.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/Attachments/8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.7i1d7mbo5d.jpg",
       "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg",
       "Selectors": [],
@@ -52274,6 +52440,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/IMG20221001104324.cqo6jyjphn.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\IMG20221001104324.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tO1EnrsRtGh+PIrLadECQn4S6F3KJlSwdn/RbmuGP7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 23:14:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cqo6jyjphn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Attachments/IMG20221001104324.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tO1EnrsRtGh+PIrLadECQn4S6F3KJlSwdn/RbmuGP7Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/IMG20221001104324.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\IMG20221001104324.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tO1EnrsRtGh+PIrLadECQn4S6F3KJlSwdn/RbmuGP7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 23:14:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tO1EnrsRtGh+PIrLadECQn4S6F3KJlSwdn/RbmuGP7Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/index.1kpnf10t7f.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\index.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1kpnf10t7f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Attachments/index.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/index.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\index.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/windows-xp-bliss.j4vyn0rene.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\windows-xp-bliss.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4vyn0rene"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Attachments/windows-xp-bliss.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/windows-xp-bliss.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\windows-xp-bliss.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 00:52:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k="
         }
       ]
     },

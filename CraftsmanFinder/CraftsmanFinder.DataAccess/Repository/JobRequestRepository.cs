@@ -25,6 +25,7 @@ namespace CraftsmanFinder.DataAccess.Repository
             var jobRequest = await _context.jobRequests
                 .Include(j => j.Attachment)
                 .Include(j => j.Category)
+                .Include(j => j.ApplicationUser)
                 .Include(j => j.offers) 
                     .ThenInclude(o => o.ApplicationUser) 
                 .FirstOrDefaultAsync(j => j.Id == jobRequestId);
@@ -43,6 +44,7 @@ namespace CraftsmanFinder.DataAccess.Repository
                 RightTime = jobRequest.RightTime,
                 Status = jobRequest.Status,
                 ApplicationUserId = jobRequest.ApplicationUserId,
+                HomeOwner = jobRequest.ApplicationUser.Name,
                 CategoryName = jobRequest.Category?.Name,
                 CategoryId = jobRequest.CategoryId,
                 Attachments = jobRequest.Attachment?.Select(a => a.FilePath).ToList() ?? new List<string>(),

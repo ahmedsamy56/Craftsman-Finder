@@ -20,5 +20,6 @@ namespace CraftsmanFinder.Entities.Models
         public ICollection<Certificate>? certificates { get; set; }
         public ICollection<JobRequest>? JobRequests { get; set; }
         public ICollection<Review>? Reviews { get; set; }
+        public ICollection<Notification>? Notifications { get; set; }
     }
 }

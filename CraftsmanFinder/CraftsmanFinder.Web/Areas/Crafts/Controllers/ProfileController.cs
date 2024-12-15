@@ -12,7 +12,6 @@ using Microsoft.AspNetCore.Authorization;
 namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
 {
     [Area("Crafts")]
-    [Authorize(Roles = $"{SD.CraftsmenRole}")]
     public class ProfileController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -54,6 +53,7 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = $"{SD.CraftsmenRole}")]
         public async Task<IActionResult> CompleteProfile()
         {
             var categories = await _unitOfWork.Categories.GetAllAsync();
@@ -71,6 +71,7 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = $"{SD.CraftsmenRole}")]
         public async Task<IActionResult> CompleteProfile(CompleteProfileViewModel model, List<IFormFile> certificateImages, List<string> descriptions)
         {
             var userId = _userManager.GetUserId(User);

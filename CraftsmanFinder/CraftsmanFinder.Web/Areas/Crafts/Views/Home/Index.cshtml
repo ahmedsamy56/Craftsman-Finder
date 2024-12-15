@@ -26,13 +26,13 @@
                 {
                     <div class="col-md-4 mb-4 card-item">
                         <div class="card">
-                            <img src="\@item.ImagePath" class="card-img-top" alt="@item.Title">
+                            <img src="@item.ImagePath" class="card-img-top" alt="@item.Title">
                             <div class="card-body">
                                 <h5 class="card-title">@item.Title</h5>
                                 <p class="card-text">Place: @item.Location</p>
 
                                 <p hidden class="card-text">Date: @item.Created.ToString("yyyy-MM-dd")</p>
-                                <a href="#" class="btn btn-primary mt-2">View</a>
+                                <a href="/HomeOwner/JobRequest/JobRequestDetails/@item.Id" class="btn btn-primary mt-2">View</a>
                             </div>
                         </div>
                     </div>

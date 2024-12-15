@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj": {
                 "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj"
+              },
+              "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj"
               }
             }
           }

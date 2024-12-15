@@ -23,6 +23,7 @@ namespace CraftsmanFinder.DataAccess.Data
         public DbSet<JobRequestAttachment> Attachments { get; set; }
         public DbSet<Offer> offers { get; set; }
         public DbSet<Review> reviews { get; set; }
+        public DbSet<Notification> notifications { get; set; }
 
     }
 }

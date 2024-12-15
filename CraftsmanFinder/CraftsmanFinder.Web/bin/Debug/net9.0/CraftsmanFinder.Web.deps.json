@@ -3770,6 +3770,7 @@
       "CraftsmanFinder.DataAccess/1.0.0": {
         "dependencies": {
           "CraftsmanFinder.Entities": "1.0.0",
+          "CraftsmanFinder.Utilities": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",

@@ -1,0 +1,92 @@
+﻿@using CraftsmanFinder.Utilities
+@model Notification
+
+@section Style{
+    <style>
+        body {
+            background-color: #f8f9fa; 
+            color: #343a40; 
+            font-family: 'Arial', sans-serif;
+        }
+
+        .notification-container {
+            min-height: 100vh; 
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .notificationType-icon {
+            font-size: 4rem; 
+            margin-top: 20px;
+        }
+
+        .accepted-icon {
+            color: #28a745; 
+        }
+
+        .warning-icon {
+            color: #ffc107; 
+        }
+
+        .error-icon {
+            color: #dc3545;
+        }
+
+        .sender-info {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #007bff;
+            margin-top: 10px;
+        }
+
+        .notification-content {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 1.2rem;
+        }
+
+        .action-btn {
+            margin-top: 30px;
+            font-size: 1rem;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+
+        .action-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+}
+<div class="container notification-container">
+    @if(Model.Type == NotificationType.Accepted){
+        <!-- Acceptable Icon (Green) -->
+        <i class="fas fa-check-circle notificationType-icon accepted-icon"></i>
+    }
+    else if (Model.Type == NotificationType.Review){
+        <i class="fas fa-clipboard-list notificationType-icon review-icon"></i>
+    }else if(Model.Type == NotificationType.Warning){
+        <i class="fas fa-exclamation-circle notificationType-icon warning-icon"></i>
+    }else if(Model.Type == NotificationType.Error){
+        <i class="fas fa-times-circle notificationType-icon error-icon"></i>
+    }
+
+    <!-- Sender Information -->
+    <div class="sender-info">
+        <p>Sender: <strong>@Model.Sender</strong></p>
+    </div>
+
+    <!-- Notification Content -->
+    <div class="notification-content">
+        <p><strong>Notification Title: @Model.Title</strong></p>
+        <p>@Model.Content</p>
+    </div>
+    @if(Model.NeedAction){
+        <a href="@Model.Link" class="btn btn-primary">Action</a>
+    }
+   
+</div>

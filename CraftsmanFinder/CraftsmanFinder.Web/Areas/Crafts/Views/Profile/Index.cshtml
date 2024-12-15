@@ -149,7 +149,7 @@
             {
                 <div class="card shadow-sm mb-3">
                     <div class="card-body">
-                        <h5 class="card-title">@review.Id</h5>
+                        @*<a href="@review.ApplicationUserId"><h5 class="card-title">000</h5</a>*@
                         <p class="card-text">@review.Comment</p>
                         <div class="rating">@string.Concat(Enumerable.Repeat("⭐", (int)review.Rating))</div>
                     </div>
