@@ -1,0 +1,74 @@
+﻿@using CraftsmanFinder.Entities.Models
+@model IEnumerable<JobRequest>
+
+@{
+    ViewBag.PageTitle = "Dashboard";
+    ViewBag.CardTitle = "Dashboard";
+}
+
+<div class="row mb-4">
+
+    <!-- Craftsmen Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-info">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-tools fa-2x"></i> Craftsmen
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.Craftsmen</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- HomeOwner Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-success">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-home fa-2x"></i> HomeOwner
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.HomeOwner</p>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Job Count -->
+    <div class="col-lg-3 col-lg-4">
+        <div class="card text-white bg-warning">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <i class="fas fa-briefcase fa-2x"></i> Jobs
+                </h2>
+                <p class="card-text" style="font-size: 1.5rem;">@ViewBag.jobs</p>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<h4>Last Jobs</h4>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>RightTime</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var job in Model)
+        {
+            <tr>
+                <td>@job.Title</td>
+                <td>@job.Location</td>
+                <td>@job.Category?.Name ?? "UnKnown"</td>
+                <td><span class="badge @(!job.Status ? "bg-success" : "bg-danger")">@(job.Status ? "Closed" : "Active")</span></td>
+                <td>@job.RightTime.ToString("f")</td>
+            </tr>
+        }
+    </tbody>
+</table>

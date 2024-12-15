@@ -167,7 +167,25 @@ namespace CraftsmanFinder.Web.Areas.Identity.Pages.Account
                     if (!string.IsNullOrEmpty(selectedRole))
                     {
                         await _userManager.AddToRoleAsync(user, selectedRole);
+                        if (selectedRole == SD.HomeOwnerRole)
+                        {
+                            return RedirectToAction("Index", "Home", new { area = "HomeOwner" });
+                        }
+                        else if (selectedRole == SD.CraftsmenRole)
+                        {
+                            return RedirectToAction("Index", "Home", new { area = "Crafts" });
+                        }
+                        else if (selectedRole == SD.AdminRole)
+                        {
+                            return RedirectToAction("Index", "Home", new { area = "Admin" });
+                        }
                     }
+
+
+                    ModelState.AddModelError(string.Empty, "Please select a valid role.");
+
+
+
 
                     var userId = await _userManager.GetUserIdAsync(user);
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);

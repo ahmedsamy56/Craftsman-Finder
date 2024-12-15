@@ -15,6 +15,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using CraftsmanFinder.Entities.Models;
+using CraftsmanFinder.Utilities;
 
 namespace CraftsmanFinder.Web.Areas.Identity.Pages.Account
 {
@@ -87,6 +88,32 @@ namespace CraftsmanFinder.Web.Areas.Identity.Pages.Account
 
         public async Task OnGetAsync(string returnUrl = null)
         {
+
+            if (User.Identity.IsAuthenticated) // Check if the user is already authenticated
+            {
+                var user = await _signInManager.UserManager.FindByNameAsync(User.Identity.Name);
+
+                // Redirect based on the user's role
+                if (await _signInManager.UserManager.IsInRoleAsync(user, SD.AdminRole))
+                {
+                    Response.Redirect("/Admin/Home/Index");
+                    return;
+                }
+                else if (await _signInManager.UserManager.IsInRoleAsync(user, SD.HomeOwnerRole))
+                {
+                    Response.Redirect("/HomeOwner/Home/Index");
+                    return; 
+                }else if(await _signInManager.UserManager.IsInRoleAsync(user, SD.CraftsmenRole))
+                {
+                    Response.Redirect("/Crafts/Home/Index");
+                    return;
+                }
+
+                
+                Response.Redirect(returnUrl ?? Url.Content("~/"));
+                return;
+            }
+
             if (!string.IsNullOrEmpty(ErrorMessage))
             {
                 ModelState.AddModelError(string.Empty, ErrorMessage);
@@ -116,6 +143,22 @@ namespace CraftsmanFinder.Web.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
+         
+                    var user = await _signInManager.UserManager.FindByEmailAsync(Input.Email);
+                    if (await _signInManager.UserManager.IsInRoleAsync(user, SD.AdminRole))
+                    {
+                        return LocalRedirect("/Admin/Home/Index");
+                    }
+                    else if (await _signInManager.UserManager.IsInRoleAsync(user, SD.HomeOwnerRole))
+                    {
+                        return LocalRedirect("/HomeOwner/Home/Index");
+                    }
+                    else if (await _signInManager.UserManager.IsInRoleAsync(user, SD.CraftsmenRole))
+                    {
+                        return LocalRedirect("/Crafts/Home/Index");
+                    }
+
+                  
                     return LocalRedirect(returnUrl);
                 }
                 if (result.RequiresTwoFactor)

@@ -16,8 +16,7 @@ namespace CraftsmanFinder.DataAccess.Repository.IRepository
         Task<IEnumerable<ApplicationUser>> GetUsersByCategoryAsync(int categoryId);
 
         Task<HomeOwnerProfileViewModel> GetHomeOwnerProfileAsync(string userId);
-
-
+        Task<int> GetUsersCountByRoleAsync(string roleName);
 
     }
 }

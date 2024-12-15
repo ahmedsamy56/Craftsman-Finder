@@ -1,91 +1,159 @@
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.components.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\pages\dashboard2.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.slim.min.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\roboto-condensed-v16-latin-700.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-600.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.components.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\roboto-condensed-v16-latin-regular.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\material-icon\fonts\Material-Design-Iconic-Font.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-italic.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.extra-components.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-800.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-700.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.pages.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.core.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.light.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\favicon.ico
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\pages\dashboard3.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.core.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\adminlte.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.core.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.plugins.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\adminlte.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\pages\dashboard.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\solid.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\adminlte.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.slim.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.pages.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-900.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\solid.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.min.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\v4-shims.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.pages.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.light.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\adminlte.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-800italic.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\all.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.min.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.light.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\adminlte.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\brands.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-300.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-500.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\material-icon\css\material-design-iconic-font.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\fontawesome.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-500italic.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\v4-shims.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-regular.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.light.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\regular.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\adminlte.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.plugins.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\svg-with-js.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.pages.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\roboto-condensed-v16-latin-italic.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\roboto-condensed-v16-latin-700italic.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\svg-with-js.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\css\style.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\demo.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\regular.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.extra-components.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.components.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\brands.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\css\site.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\.eslintrc.json
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\js\site.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.slim.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.extra-components.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-700italic.svg
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\jquery\jquery.min.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.core.min.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\adminlte.min.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.plugins.min.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\css\style.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\fontawesome.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\js\adminlte.min.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\bootstrap\js\bootstrap.js.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.extra-components.css.map
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.components.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\poppins\poppins-v5-latin-300italic.svg
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\plugins\fontawesome-free\css\all.min.css
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\dashboard\dist\css\alt\adminlte.plugins.css.map
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\wwwroot\AuthLayout\fonts\material-icon\css\material-design-iconic-font.css
 wwwroot\AuthLayout\css\style.css
 wwwroot\AuthLayout\css\style.css.map
@@ -179,6 +247,119 @@ wwwroot\AuthLayout\fonts\poppins\roboto-condensed-v16-latin-regular.woff2
 wwwroot\AuthLayout\images\signin-image.jpg
 wwwroot\AuthLayout\images\signup-image.jpg
 wwwroot\css\site.css
+wwwroot\dashboard\dist\css\adminlte.css
+wwwroot\dashboard\dist\css\adminlte.css.map
+wwwroot\dashboard\dist\css\adminlte.min.css
+wwwroot\dashboard\dist\css\adminlte.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.components.css
+wwwroot\dashboard\dist\css\alt\adminlte.components.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.components.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.components.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.core.css
+wwwroot\dashboard\dist\css\alt\adminlte.core.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.core.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.core.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.extra-components.css
+wwwroot\dashboard\dist\css\alt\adminlte.extra-components.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.extra-components.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.extra-components.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.light.css
+wwwroot\dashboard\dist\css\alt\adminlte.light.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.light.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.light.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.pages.css
+wwwroot\dashboard\dist\css\alt\adminlte.pages.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.pages.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.pages.min.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.plugins.css
+wwwroot\dashboard\dist\css\alt\adminlte.plugins.css.map
+wwwroot\dashboard\dist\css\alt\adminlte.plugins.min.css
+wwwroot\dashboard\dist\css\alt\adminlte.plugins.min.css.map
+wwwroot\dashboard\dist\img\AdminLTELogo.png
+wwwroot\dashboard\dist\img\avatar.png
+wwwroot\dashboard\dist\img\avatar2.png
+wwwroot\dashboard\dist\img\avatar3.png
+wwwroot\dashboard\dist\img\avatar4.png
+wwwroot\dashboard\dist\img\avatar5.png
+wwwroot\dashboard\dist\img\boxed-bg.jpg
+wwwroot\dashboard\dist\img\boxed-bg.png
+wwwroot\dashboard\dist\img\credit\american-express.png
+wwwroot\dashboard\dist\img\credit\cirrus.png
+wwwroot\dashboard\dist\img\credit\mastercard.png
+wwwroot\dashboard\dist\img\credit\paypal.png
+wwwroot\dashboard\dist\img\credit\paypal2.png
+wwwroot\dashboard\dist\img\credit\visa.png
+wwwroot\dashboard\dist\img\default-150x150.png
+wwwroot\dashboard\dist\img\icons.png
+wwwroot\dashboard\dist\img\photo1.png
+wwwroot\dashboard\dist\img\photo2.png
+wwwroot\dashboard\dist\img\photo3.jpg
+wwwroot\dashboard\dist\img\photo4.jpg
+wwwroot\dashboard\dist\img\prod-1.jpg
+wwwroot\dashboard\dist\img\prod-2.jpg
+wwwroot\dashboard\dist\img\prod-3.jpg
+wwwroot\dashboard\dist\img\prod-4.jpg
+wwwroot\dashboard\dist\img\prod-5.jpg
+wwwroot\dashboard\dist\img\user1-128x128.jpg
+wwwroot\dashboard\dist\img\user2-160x160.jpg
+wwwroot\dashboard\dist\img\user3-128x128.jpg
+wwwroot\dashboard\dist\img\user4-128x128.jpg
+wwwroot\dashboard\dist\img\user5-128x128.jpg
+wwwroot\dashboard\dist\img\user6-128x128.jpg
+wwwroot\dashboard\dist\img\user7-128x128.jpg
+wwwroot\dashboard\dist\img\user8-128x128.jpg
+wwwroot\dashboard\dist\js\.eslintrc.json
+wwwroot\dashboard\dist\js\adminlte.js
+wwwroot\dashboard\dist\js\adminlte.js.map
+wwwroot\dashboard\dist\js\adminlte.min.js
+wwwroot\dashboard\dist\js\adminlte.min.js.map
+wwwroot\dashboard\dist\js\demo.js
+wwwroot\dashboard\dist\js\pages\dashboard.js
+wwwroot\dashboard\dist\js\pages\dashboard2.js
+wwwroot\dashboard\dist\js\pages\dashboard3.js
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.js
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.js.map
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.js
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.js.map
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.min.js
+wwwroot\dashboard\plugins\bootstrap\js\bootstrap.min.js.map
+wwwroot\dashboard\plugins\fontawesome-free\css\all.css
+wwwroot\dashboard\plugins\fontawesome-free\css\all.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\brands.css
+wwwroot\dashboard\plugins\fontawesome-free\css\brands.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\fontawesome.css
+wwwroot\dashboard\plugins\fontawesome-free\css\fontawesome.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\regular.css
+wwwroot\dashboard\plugins\fontawesome-free\css\regular.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\solid.css
+wwwroot\dashboard\plugins\fontawesome-free\css\solid.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\svg-with-js.css
+wwwroot\dashboard\plugins\fontawesome-free\css\svg-with-js.min.css
+wwwroot\dashboard\plugins\fontawesome-free\css\v4-shims.css
+wwwroot\dashboard\plugins\fontawesome-free\css\v4-shims.min.css
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+wwwroot\dashboard\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+wwwroot\dashboard\plugins\jquery\jquery.js
+wwwroot\dashboard\plugins\jquery\jquery.min.js
+wwwroot\dashboard\plugins\jquery\jquery.min.map
+wwwroot\dashboard\plugins\jquery\jquery.slim.js
+wwwroot\dashboard\plugins\jquery\jquery.slim.min.js
+wwwroot\dashboard\plugins\jquery\jquery.slim.min.map
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -248,11 +429,8 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\uploads\Attachments\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg
-wwwroot\uploads\Attachments\8364237b-e1a9-4034-bebe-b3e72e727727.jpg
 wwwroot\uploads\Attachments\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg
 wwwroot\uploads\Attachments\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg
-wwwroot\uploads\Attachments\c281dd45-9e4a-4492-a297-2b4961e5c93c.png
-wwwroot\uploads\Attachments\IMG20221001104324.jpg
 wwwroot\uploads\certificates\075bceee-018e-412f-bae4-93c274f9b6bd.png
 wwwroot\uploads\certificates\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg
 wwwroot\uploads\certificates\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg
@@ -263,3 +441,4 @@ wwwroot\uploads\profile\9d373f8d-66b2-4947-8907-096984a41d23.png
 wwwroot\uploads\profile\b9ea4a3c-14ac-4c22-915a-0b501b309935.jpg
 wwwroot\uploads\profile\c4f029d3-3f1d-48d4-a5d2-09204330df55.jpg
 wwwroot\uploads\profile\d167eba8-cdd4-42c4-a022-5d7278592041.jpg
+wwwroot\uploads\profile\f7f590b6-f1c3-481e-97d0-862e823c47bb.jpg

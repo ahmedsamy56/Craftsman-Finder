@@ -75,5 +75,19 @@ namespace CraftsmanFinder.DataAccess.Repository
             .FirstOrDefaultAsync(user => user.Id == userId);
 
         }
+
+        public async Task<int> GetUsersCountByRoleAsync(string roleName)
+        {
+
+            var role = await _context.Roles.FirstOrDefaultAsync(r => r.Name == roleName);
+            if (role == null)
+                return 0;
+            var usersCount = await _context.UserRoles
+                .Where(ur => ur.RoleId == role.Id)
+                .CountAsync();
+
+            return usersCount;
+        }
+
     }
 }
