@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b+xgyjjLe8Xz9CdZVUuLs/DScMjJ5gBkRTM/Rc0lvTw=",
+  "Hash": "33YLgiJpgULB9d4ycDeSVkU1am2X7sT8nRzS5M+HfBo=",
   "Source": "CraftsmanFinder.Web",
   "BasePath": "_content/CraftsmanFinder.Web",
   "Mode": "Default",
@@ -11840,12 +11840,12 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Category\\17d24bde-08ed-4bef-b071-4e9ceda66f46_WIN_20230825_01_39_27_Pro.jpg"
     },
     {
-      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg",
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg",
       "SourceId": "CraftsmanFinder.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
       "BasePath": "_content/CraftsmanFinder.Web",
-      "RelativePath": "uploads/Category/1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/Category/ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11854,11 +11854,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wgkcs7yf2l",
-      "Integrity": "oOqs8lgKUM5bIpzqEQ37ggIjufVSN7GATtBqqhrUlu4=",
+      "Fingerprint": "54pierc30b",
+      "Integrity": "pekO+g0MMIF0ymljfmZpHABgG9Seiuj6ES0h7gn/Eu0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\Category\\1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\075bceee-018e-412f-bae4-93c274f9b6bd.png",
@@ -80178,8 +80178,8 @@
       ]
     },
     {
-      "Route": "uploads/Category/1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg",
-      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg",
+      "Route": "uploads/Category/ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.54pierc30b.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80188,7 +80188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "240018"
+          "Value": "323453"
         },
         {
           "Name": "Content-Type",
@@ -80196,48 +80196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oOqs8lgKUM5bIpzqEQ37ggIjufVSN7GATtBqqhrUlu4=\""
+          "Value": "\"pekO+g0MMIF0ymljfmZpHABgG9Seiuj6ES0h7gn/Eu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 19:16:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oOqs8lgKUM5bIpzqEQ37ggIjufVSN7GATtBqqhrUlu4="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/Category/1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.wgkcs7yf2l.jpg",
-      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "240018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oOqs8lgKUM5bIpzqEQ37ggIjufVSN7GATtBqqhrUlu4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 19:16:30 GMT"
+          "Value": "Sun, 15 Dec 2024 20:27:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80247,15 +80210,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wgkcs7yf2l"
+          "Value": "54pierc30b"
         },
         {
           "Name": "label",
-          "Value": "uploads/Category/1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg"
+          "Value": "uploads/Category/ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oOqs8lgKUM5bIpzqEQ37ggIjufVSN7GATtBqqhrUlu4="
+          "Value": "sha256-pekO+g0MMIF0ymljfmZpHABgG9Seiuj6ES0h7gn/Eu0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Category/ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pekO+g0MMIF0ymljfmZpHABgG9Seiuj6ES0h7gn/Eu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 20:27:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pekO+g0MMIF0ymljfmZpHABgG9Seiuj6ES0h7gn/Eu0="
         }
       ]
     },
