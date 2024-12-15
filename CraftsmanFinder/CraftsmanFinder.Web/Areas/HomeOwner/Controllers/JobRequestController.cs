@@ -55,42 +55,55 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
                     Description = model.Description,
                     Location = model.Location,
                     RightTime = model.RightTime,
-                    CategoryId = model.CategoryId, 
+                    CategoryId = model.CategoryId,
                     ApplicationUserId = User.FindFirstValue(ClaimTypes.NameIdentifier)
                 };
 
                 await _unitOfWork.JobRequests.AddAsync(jobRequest);
                 await _unitOfWork.SaveAsync();
 
+
                 if (model.Attachments != null && model.Attachments.Count > 0)
                 {
+
+                    var uploadsFolder = Path.Combine("wwwroot", "uploads", "Attachments");
+
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+
                     foreach (var file in model.Attachments)
                     {
                         if (file.Length > 0)
                         {
-                            var filePath = Path.Combine("wwwroot/uploads/Attachments", file.FileName);
-                            using var stream = new FileStream(filePath, FileMode.Create);
-                            file.CopyTo(stream);
+                            var uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                            var filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
+                            using var stream = new FileStream(filePath, FileMode.Create);
+                            await file.CopyToAsync(stream);
                             var attachment = new JobRequestAttachment
                             {
-                                FilePath = $"/uploads/Attachments/{file.FileName}",
+                                FilePath = $"/uploads/Attachments/{uniqueFileName}",
                                 JobRequestId = jobRequest.Id
                             };
 
                             await _unitOfWork.Attachments.AddAsync(attachment);
                         }
                     }
+
                     await _unitOfWork.SaveAsync();
                 }
 
                 return RedirectToAction("JobRequestDetails", new { id = jobRequest.Id });
-
             }
 
+            // Reload categories for the dropdown in case of invalid model state
             model.Categories = await _unitOfWork.Categories.GetAllAsync();
             return View(model);
         }
+
+
 
         [HttpGet]
         public async Task<IActionResult> Edit(int id)

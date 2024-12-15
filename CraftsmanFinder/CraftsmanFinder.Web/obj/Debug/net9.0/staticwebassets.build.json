@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tmb573+VyvhheGCaaUZFbgzGcDwXUVGGMKH3yBGbbQ0=",
+  "Hash": "VnCM1+9xk7xCGwUdEzs+CyDFUTTlcL3qz2tuBplxBy4=",
   "Source": "CraftsmanFinder.Web",
   "BasePath": "_content/CraftsmanFinder.Web",
   "Mode": "Default",
@@ -7995,6 +7995,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8364237b-e1a9-4034-bebe-b3e72e727727.jpg",
+      "SourceId": "CraftsmanFinder.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\",
+      "BasePath": "_content/CraftsmanFinder.Web",
+      "RelativePath": "uploads/Attachments/8364237b-e1a9-4034-bebe-b3e72e727727#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qos0mf3izg",
+      "Integrity": "OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Attachments\\8364237b-e1a9-4034-bebe-b3e72e727727.jpg"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg",
@@ -52276,6 +52297,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/8364237b-e1a9-4034-bebe-b3e72e727727.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8364237b-e1a9-4034-bebe-b3e72e727727.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:51:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Attachments/8364237b-e1a9-4034-bebe-b3e72e727727.qos0mf3izg.jpg",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8364237b-e1a9-4034-bebe-b3e72e727727.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 01:51:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qos0mf3izg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Attachments/8364237b-e1a9-4034-bebe-b3e72e727727.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8="
         }
       ]
     },

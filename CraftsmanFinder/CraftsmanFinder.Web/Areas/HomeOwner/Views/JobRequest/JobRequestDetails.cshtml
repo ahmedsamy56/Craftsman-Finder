@@ -97,19 +97,19 @@
 
 
 <div class="container mt-5">
-    <!-- Title and Category -->
+    
     <div class="text-center mb-4">
         <h1 class="page-title">@Model.Title</h1>
         <p class="page-subtitle">@Model.CategoryName</p>
     </div>
 
-    <!-- Gallery Section -->
+
     <div class="mb-5">
         <h3 class="text-center section-title">Gallery</h3>
         @if (Model.Attachments != null && Model.Attachments.Count > 0)
         {
             <div class="row justify-content-center">
-                <!-- Main Image -->
+                
                 <div class="col-md-8 mb-3 text-center">
                     <img id="mainImage" src="@Model.Attachments[0]"
                     class="main-image"
@@ -117,7 +117,7 @@
                     onclick="showImageInModal(this.src)">
                 </div>
 
-                <!-- Thumbnails -->
+             
                 <div class="col-md-10 d-flex flex-wrap justify-content-center">
                     @for (int i = 0; i < Model.Attachments.Count; i++)
                     {
@@ -141,7 +141,7 @@
         }
     </div>
 
-    <!-- Job Details Section -->
+    
     <div class="mb-5">
         <h3 class="section-title">Job Details</h3>
         <div class="details-card">
@@ -244,13 +244,11 @@
                         <input type="hidden" id="editOfferId" name="OfferId" />
                         <input type="hidden" id="editJobRequestId" name="JobRequestId" />
 
-                        <!-- Field for Price -->
                         <div class="mb-3">
                             <label for="editAmount" class="form-label">Amount</label>
                             <input type="number" class="form-control" id="editAmount" name="Price" required />
                         </div>
 
-                        <!-- Field for NegotiationDetails -->
                         <div class="mb-3">
                             <label for="editMessage" class="form-label">Message</label>
                             <textarea class="form-control" id="editMessage" name="NegotiationDetails" rows="3" required></textarea>
