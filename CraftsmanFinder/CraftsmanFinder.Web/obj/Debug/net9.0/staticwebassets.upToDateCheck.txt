@@ -248,13 +248,11 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\uploads\Attachments\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg
-wwwroot\uploads\Attachments\6ca60c64-b3e4-4657-83fb-8384303b955e.jpg
 wwwroot\uploads\Attachments\8364237b-e1a9-4034-bebe-b3e72e727727.jpg
 wwwroot\uploads\Attachments\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg
 wwwroot\uploads\Attachments\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg
+wwwroot\uploads\Attachments\c281dd45-9e4a-4492-a297-2b4961e5c93c.png
 wwwroot\uploads\Attachments\IMG20221001104324.jpg
-wwwroot\uploads\Attachments\index.jpg
-wwwroot\uploads\Attachments\windows-xp-bliss.jpg
 wwwroot\uploads\certificates\075bceee-018e-412f-bae4-93c274f9b6bd.png
 wwwroot\uploads\certificates\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg
 wwwroot\uploads\certificates\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg

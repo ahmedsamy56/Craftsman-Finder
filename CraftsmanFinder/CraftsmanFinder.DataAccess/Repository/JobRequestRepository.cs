@@ -103,5 +103,50 @@ namespace CraftsmanFinder.DataAccess.Repository
             await _context.SaveChangesAsync();
         }
 
+
+        public async Task DeleteJobRequestWithDependenciesAsync(int jobRequestId)
+        {
+            var jobRequest = await _context.jobRequests
+                .Include(j => j.offers)
+                .Include(j => j.Attachment)
+                .FirstOrDefaultAsync(j => j.Id == jobRequestId);
+
+            if (jobRequest == null)
+            {
+                throw new KeyNotFoundException($"JobRequest with Id {jobRequestId} not found.");
+            }
+
+            // Remove offers
+            if (jobRequest.offers != null && jobRequest.offers.Any())
+            {
+                _context.offers.RemoveRange(jobRequest.offers);
+            }
+
+            // Remove attachments
+            if (jobRequest.Attachment != null && jobRequest.Attachment.Any())
+            {
+                foreach (var attachment in jobRequest.Attachment)
+                {
+                    var filePath = Path.Combine(
+                        Directory.GetCurrentDirectory(),
+                        "wwwroot",
+                        attachment.FilePath.TrimStart('/').Replace('/', Path.DirectorySeparatorChar)
+                    );
+
+                    if (File.Exists(filePath))
+                    {
+                        File.Delete(filePath);
+                    }
+                    
+                }
+                _context.Attachments.RemoveRange(jobRequest.Attachment);
+            }
+
+            _context.jobRequests.Remove(jobRequest);
+
+            await _context.SaveChangesAsync();
+        }
+
+
     }
 }

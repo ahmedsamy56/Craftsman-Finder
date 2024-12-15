@@ -5,6 +5,7 @@ using CraftsmanFinder.Entities.Models;
 using CraftsmanFinder.Entities.ViewModel;
 using CraftsmanFinder.Utilities;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.Blazor;
@@ -17,10 +18,12 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
     public class JobRequestController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly UserManager<ApplicationUser> _userManager;
 
-        public JobRequestController(IUnitOfWork IUnitOfWork)
+        public JobRequestController(IUnitOfWork IUnitOfWork, UserManager<ApplicationUser> userManager = null)
         {
             _unitOfWork = IUnitOfWork;
+            _userManager = userManager;
         }
 
         [AllowAnonymous]
@@ -158,5 +161,21 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
 
             return RedirectToAction("JobRequestDetails", new { id = jobRequest.Id });
         }
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var userId = _userManager.GetUserId(User);
+            var job = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id ==id);
+            if (job != null && job.ApplicationUserId == userId)
+            {
+                await _unitOfWork.JobRequests.DeleteJobRequestWithDependenciesAsync(id);
+            }
+            return RedirectToRoute(new { area = "HomeOwner", controller = "Profile", action = "Index", id = userId });
+
+        }
+
     }
 }

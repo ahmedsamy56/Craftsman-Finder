@@ -13,6 +13,7 @@ namespace CraftsmanFinder.DataAccess.Repository.IRepository
         Task UpdateAsync(JobRequest jobRequest);
         Task<IEnumerable<JobRequestListViewModel>> GetByCategoryAndStatusAsync(int categoryId, bool status = false);
         Task<JobRequestDetailsViewModel> GetDetailsAsync(int jobRequestId);
+        Task DeleteJobRequestWithDependenciesAsync(int jobRequestId);
 
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraftsmanFinder.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ee4e4457b03c6b48a6d13f8a59a1f3652e9cc9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd61a101cd62bb53f2e1f73d7f690193e4038c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraftsmanFinder.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraftsmanFinder.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

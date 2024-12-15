@@ -64,6 +64,8 @@
             else if (User.IsInRole(SD.HomeOwnerRole))
             {
                 <a class="navbar-brand" href="/HomeOwner/Home/Index">CraftsmanFinder</a>
+            }else{
+                <a class="navbar-brand" href="#">CraftsmanFinder</a>
             }
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -77,26 +79,26 @@
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/HomeOwner/Home/Index">Home</a></li>
                     }
                     <partial name="_LoginPartial" />
-
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav ms-auto">
-                            <!-- Notifications Dropdown -->
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    <i class="fas fa-bell notification-icon">
-                                        <!-- Badge for notifications -->
-                                    </i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown" id="notificationList">
+                    @if (User.IsInRole(SD.CraftsmenRole) || User.IsInRole(SD.HomeOwnerRole)){
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav ms-auto">
+                                <!-- Notifications Dropdown -->
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <i class="fas fa-bell notification-icon">
+                                            <!-- Badge for notifications -->
+                                        </i>
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown" id="notificationList">
                                   
                                  
-                                    <li><hr class="dropdown-divider"></li>
-                                    <li><a class="dropdown-item text-center" href="#">View All</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-
+                                        <li><hr class="dropdown-divider"></li>
+                                        <li><a class="dropdown-item text-center" href="#">View All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    }
                   
                 </ul>
             </div>
