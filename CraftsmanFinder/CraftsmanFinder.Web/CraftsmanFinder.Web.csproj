@@ -46,6 +46,7 @@
     <Folder Include="wwwroot\lib\jquery\dist\" />
     <Folder Include="wwwroot\uploads\certificates\" />
     <Folder Include="wwwroot\uploads\Attachments\" />
+    <Folder Include="wwwroot\uploads\Category\" />
     <Folder Include="wwwroot\uploads\profile\" />
   </ItemGroup>
 

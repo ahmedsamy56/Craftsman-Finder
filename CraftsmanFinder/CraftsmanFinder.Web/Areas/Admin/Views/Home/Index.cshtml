@@ -65,7 +65,7 @@
             <tr>
                 <td>@job.Title</td>
                 <td>@job.Location</td>
-                <td>@job.Category?.Name ?? "UnKnown"</td>
+                <td>@(@job.Category?.Name ?? "UnKnown")</td>
                 <td><span class="badge @(!job.Status ? "bg-success" : "bg-danger")">@(job.Status ? "Closed" : "Active")</span></td>
                 <td>@job.RightTime.ToString("f")</td>
             </tr>

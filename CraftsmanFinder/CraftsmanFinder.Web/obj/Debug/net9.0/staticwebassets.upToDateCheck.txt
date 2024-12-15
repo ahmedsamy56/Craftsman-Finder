@@ -431,6 +431,8 @@ wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\uploads\Attachments\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg
 wwwroot\uploads\Attachments\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg
 wwwroot\uploads\Attachments\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg
+wwwroot\uploads\Category\17d24bde-08ed-4bef-b071-4e9ceda66f46_WIN_20230825_01_39_27_Pro.jpg
+wwwroot\uploads\Category\1aead9bc-ccc1-482f-b038-2fb2462947c9_WIN_20221126_13_22_36_Pro.jpg
 wwwroot\uploads\certificates\075bceee-018e-412f-bae4-93c274f9b6bd.png
 wwwroot\uploads\certificates\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg
 wwwroot\uploads\certificates\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg

@@ -1,0 +1,28 @@
+﻿@using CraftsmanFinder.Entities.Models
+@model Category
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Create Category</h3>
+    </div>
+    <div class="card-body">
+        <form asp-action="Create" enctype="multipart/form-data" method="post">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Logo">Logo</label>
+                <input type="file" name="LogoFile" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+</div>
