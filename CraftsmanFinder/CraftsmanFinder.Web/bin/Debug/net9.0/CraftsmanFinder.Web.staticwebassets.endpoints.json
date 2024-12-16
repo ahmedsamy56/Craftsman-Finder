@@ -45380,6 +45380,88 @@
       ]
     },
     {
+      "Route": "images/error-NotFound.jpg",
+      "AssetFile": "images/error-NotFound.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxsOmb0/DXLC8myIMZ9XTINpXTNasCyzpg3vhaRN1Kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 00:51:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GxsOmb0/DXLC8myIMZ9XTINpXTNasCyzpg3vhaRN1Kc="
+        }
+      ]
+    },
+    {
+      "Route": "images/error-NotFound.te5mou5e5d.jpg",
+      "AssetFile": "images/error-NotFound.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxsOmb0/DXLC8myIMZ9XTINpXTNasCyzpg3vhaRN1Kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 00:51:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "te5mou5e5d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GxsOmb0/DXLC8myIMZ9XTINpXTNasCyzpg3vhaRN1Kc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/error-NotFound.jpg"
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js.gz",
       "Selectors": [

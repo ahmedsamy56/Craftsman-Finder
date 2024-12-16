@@ -361,6 +361,7 @@ wwwroot\dashboard\plugins\jquery\jquery.slim.js
 wwwroot\dashboard\plugins\jquery\jquery.slim.min.js
 wwwroot\dashboard\plugins\jquery\jquery.slim.min.map
 wwwroot\favicon.ico
+wwwroot\images\error-NotFound.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -31,7 +31,7 @@ namespace CraftsmanFinder.Web.Areas.Admin.Controllers
             var user = await _unitOfWork.ApplicationUsers.GetFirstorDefaultsync(x => x.Id == id);
             if (user == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
             if (user.LockoutEnd == null || user.LockoutEnd < DateTime.Now)
             {

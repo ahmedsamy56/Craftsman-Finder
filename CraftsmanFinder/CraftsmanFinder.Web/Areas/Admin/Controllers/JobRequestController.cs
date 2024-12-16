@@ -30,6 +30,10 @@ namespace CraftsmanFinder.Web.Areas.Admin.Controllers
             {
                 await _unitOfWork.JobRequests.DeleteJobRequestWithDependenciesAsync(id);
             }
+            else
+            {
+                return View("/Views/Shared/NotFound.cshtml");
+            }
 
             return RedirectToAction(nameof(Index));
         }

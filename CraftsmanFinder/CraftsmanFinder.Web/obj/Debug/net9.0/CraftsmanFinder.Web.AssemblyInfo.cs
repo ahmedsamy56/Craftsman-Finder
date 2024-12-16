@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraftsmanFinder.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ef05e367d06e8a37a1adf8592969e392a673d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+361ea526d693705d04cb99acfa4956d4ab10d3e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraftsmanFinder.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraftsmanFinder.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

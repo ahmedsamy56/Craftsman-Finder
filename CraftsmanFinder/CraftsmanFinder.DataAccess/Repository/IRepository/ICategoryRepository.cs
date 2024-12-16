@@ -1,4 +1,5 @@
 ﻿using CraftsmanFinder.Entities.Models;
+using CraftsmanFinder.Entities.ViewModel;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
@@ -12,5 +13,6 @@ namespace CraftsmanFinder.DataAccess.Repository.IRepository
     {
         Task UpdateAsync(Category category);
         public  Task<IEnumerable<SelectListItem>> GetCategoriesAsync();
+        public Task<IEnumerable<JobRequestListViewModel>> GetByCategoryAsync(int categoryId);
     }
 }

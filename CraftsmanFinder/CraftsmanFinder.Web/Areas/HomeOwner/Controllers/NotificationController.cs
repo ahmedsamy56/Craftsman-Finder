@@ -32,7 +32,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
 
             if (notification == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
             await _unitOfWork.Notifications.MarkAsWatchedAsync(notification.Id);
             return View(notification);

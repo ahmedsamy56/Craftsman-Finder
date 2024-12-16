@@ -32,7 +32,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             var model = await _unitOfWork.JobRequests.GetDetailsAsync(id);
             if (model == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             return View(model);
@@ -101,7 +101,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
                 return RedirectToAction("JobRequestDetails", new { id = jobRequest.Id });
             }
 
-            // Reload categories for the dropdown in case of invalid model state
+            
             model.Categories = await _unitOfWork.Categories.GetAllAsync();
             return View(model);
         }
@@ -114,7 +114,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             var jobRequest = await _unitOfWork.JobRequests.GetDetailsAsync(id);
             if (jobRequest == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             var model = new JobRequestEditViewModel
@@ -147,7 +147,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             var jobRequest = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id == model.Id);
             if (jobRequest == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             jobRequest.Title = model.Title;

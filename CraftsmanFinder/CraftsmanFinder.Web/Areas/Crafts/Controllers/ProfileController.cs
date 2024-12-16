@@ -29,7 +29,7 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
 
             var user = await _unitOfWork.ApplicationUsers.GetUserWithAllDetailsAsync(id);
             if (user == null)
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
 
             var averageRating = await _unitOfWork.Reviews.GetAverageRatingByUserIdAsync(id);
             var totalReviews = user.Reviews?.Count ?? 0;
@@ -59,7 +59,7 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
             var categories = await _unitOfWork.Categories.GetAllAsync();
             ViewBag.Categories = categories.Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name });
 
-            // Retrieve user details if needed
+           
             var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
             var user = await _unitOfWork.ApplicationUsers.GetFirstorDefaultsync(x=>x.Id == userId);
             var viewModel = new CompleteProfileViewModel
@@ -75,8 +75,6 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
         public async Task<IActionResult> CompleteProfile(CompleteProfileViewModel model, List<IFormFile> certificateImages, List<string> descriptions)
         {
             var userId = _userManager.GetUserId(User);
-
-            // Update the user's category
             var user = await _unitOfWork.ApplicationUsers.GetFirstorDefaultsync(x=>x.Id == userId);
             if (user != null)
             {

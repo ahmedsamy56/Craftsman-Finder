@@ -1,6 +1,7 @@
 ﻿using CraftsmanFinder.DataAccess.Data;
 using CraftsmanFinder.DataAccess.Repository.IRepository;
 using CraftsmanFinder.Entities.Models;
+using CraftsmanFinder.Entities.ViewModel;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -30,6 +31,26 @@ namespace CraftsmanFinder.DataAccess.Repository
                 Text = c.Name
             });
         }
+
+        public async Task<IEnumerable<JobRequestListViewModel>> GetByCategoryAsync(int categoryId)
+        {
+            return await _context.jobRequests
+                .Where(jr => jr.CategoryId == categoryId)
+                .Select(jr => new JobRequestListViewModel
+                {
+                    Id = jr.Id,
+                    Title = jr.Title,
+                    Description = jr.Description,
+                    Location = jr.Location,
+                    Created = jr.Created,
+                    ImagePath = _context.Attachments
+                        .Where(a => a.JobRequestId == jr.Id)
+                        .Select(a => a.FilePath)
+                        .FirstOrDefault()
+                })
+                .ToListAsync();
+        }
+
         public async  Task  UpdateAsync(Category category)
         {
             var objFromDb = await _context.categories.FirstOrDefaultAsync(c => c.Id == category.Id);
@@ -43,5 +64,6 @@ namespace CraftsmanFinder.DataAccess.Repository
             objFromDb.Logo = category.Logo;
             await _context.SaveChangesAsync();
         }
+
     }
 }

@@ -32,6 +32,10 @@ namespace CraftsmanFinder.Web.Areas.Admin.Controllers
                 await _unitOfWork.Reviews.DeleteAsync(review);
                 await _unitOfWork.SaveAsync();
             }
+            else
+            {
+                return View("/Views/Shared/NotFound.cshtml");
+            }
            
             return RedirectToAction(nameof(Index));
         }

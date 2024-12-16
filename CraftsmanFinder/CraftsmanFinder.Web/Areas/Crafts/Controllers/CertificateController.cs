@@ -72,13 +72,13 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
 
             if (certificate == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
 
             if (certificate.ApplicationUserId != userId)
             {
-                return Forbid(); 
+                return Unauthorized(); 
             }
             var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", certificate.FilePath);
             if (System.IO.File.Exists(filePath))

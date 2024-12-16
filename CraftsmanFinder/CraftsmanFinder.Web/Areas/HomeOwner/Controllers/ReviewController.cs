@@ -20,19 +20,19 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             _userManager = userManager;
         }
 
-        // GET: /Review/Create
+      
         [HttpGet]
         public async Task<IActionResult> Create(string applicationUserId, int jobRequestId)
         {
             if (string.IsNullOrEmpty(applicationUserId) || jobRequestId <= 0)
             {
-                return BadRequest("Invalid ApplicationUserId or JobRequestId.");
+                return View("/Views/Shared/NotFound.cshtml");
             }
             var userId = _userManager.GetUserId(User);
             var jobRequestExists = await _unitOfWork.JobRequests.GetFirstorDefaultsync(j => j.Id == jobRequestId);
             if (jobRequestExists == null || userId != jobRequestExists.ApplicationUserId)
             {
-                return NotFound("Invalid");
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             var model = new ReviewViewModel

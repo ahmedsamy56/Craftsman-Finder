@@ -65,7 +65,7 @@ namespace CraftsmanFinder.Web.Areas.Admin.Controllers
             var category = await _unitOfWork.Categories.GetFirstorDefaultsync(x=>x.Id == id);
             if (category == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
             return View(category);
         }
@@ -119,7 +119,7 @@ namespace CraftsmanFinder.Web.Areas.Admin.Controllers
             var category = await _unitOfWork.Categories.GetFirstorDefaultsync(x=>x.Id == id);
             if (category == null)
             {
-                return NotFound();
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             

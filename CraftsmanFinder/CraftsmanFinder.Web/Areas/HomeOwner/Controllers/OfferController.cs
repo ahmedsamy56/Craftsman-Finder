@@ -89,29 +89,24 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
                 return RedirectToAction("JobRequestDetails", "JobRequest", new { id = model.JobRequestId });
             }
 
-            try
+     
+            var userId = _userManager.GetUserId(User);
+            var existingOffer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == model.OfferId);
+
+            if (existingOffer == null || existingOffer.ApplicationUserId != userId)
             {
-                var userId = _userManager.GetUserId(User);
-                var existingOffer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == model.OfferId);
+                return Unauthorized();
+            }
 
-                if (existingOffer == null || existingOffer.ApplicationUserId != userId)
-                {
-                    return Unauthorized();
-                }
+            existingOffer.Price = (int)model.Price;
+            existingOffer.NegotiationDetails = model.NegotiationDetails;
 
-                existingOffer.Price = (int)model.Price;
-                existingOffer.NegotiationDetails = model.NegotiationDetails;
-
-                await _unitOfWork.Offers.UpdateAsync(existingOffer );
-                await _unitOfWork.SaveAsync();
+            await _unitOfWork.Offers.UpdateAsync(existingOffer );
+            await _unitOfWork.SaveAsync();
 
                 
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = model.JobRequestId });
-            }
-            catch (Exception ex)
-            {
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = model.JobRequestId });
-            }
+            return RedirectToAction("JobRequestDetails", "JobRequest", new { id = model.JobRequestId });
+          
         }
 
         [HttpPost]
@@ -119,26 +114,20 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
         public async Task<IActionResult> DeleteOffer(int offerId)
         {
             int JobRequestId = 0;
-            try
+        
+            var userId = _userManager.GetUserId(User);
+            var offer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == offerId);
+
+            if (offer == null || offer.ApplicationUserId != userId)
             {
-                var userId = _userManager.GetUserId(User);
-                var offer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == offerId);
-
-                if (offer == null || offer.ApplicationUserId != userId)
-                {
-                    return Unauthorized();
-                }
-                JobRequestId = offer.JobRequestId;
-                await _unitOfWork.Offers.DeleteAsync(offer);
-                await _unitOfWork.SaveAsync();
-
-
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+                return Unauthorized();
             }
-            catch (Exception ex)
-            {
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
-            }
+            JobRequestId = offer.JobRequestId;
+            await _unitOfWork.Offers.DeleteAsync(offer);
+            await _unitOfWork.SaveAsync();
+
+            return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+          
         }
 
         [HttpPost]
@@ -146,33 +135,24 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
         public async Task<IActionResult> AcceptOffer(int offerId)
         {
             int JobRequestId = 0;   
-            try
+            var offer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == offerId);
+            JobRequestId = offer.JobRequestId;
+            if (offer == null)
             {
-                // Validate user permissions
-                var offer = await _unitOfWork.Offers.GetFirstorDefaultsync(x=>x.Id == offerId);
-                JobRequestId = offer.JobRequestId;
-                if (offer == null)
-                {
-                    return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
-                }
-
-                var userId = _userManager.GetUserId(User);
-                var jobRequest = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id == JobRequestId);
-
-                if (jobRequest == null || jobRequest.ApplicationUserId != userId)
-                {
-                    return Unauthorized();
-                }
-
-                // Accept the offer
-                await _unitOfWork.Offers.AcceptOfferAsync(offerId);
-
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+                return View("/Views/Shared/NotFound.cshtml");
             }
-            catch (Exception ex)
+
+            var userId = _userManager.GetUserId(User);
+            var jobRequest = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id == JobRequestId);
+
+            if (jobRequest == null || jobRequest.ApplicationUserId != userId)
             {
-                return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
+                return Unauthorized();
             }
+
+            await _unitOfWork.Offers.AcceptOfferAsync(offerId);
+
+            return RedirectToAction("JobRequestDetails", "JobRequest", new { id = JobRequestId });
         }
 
     }

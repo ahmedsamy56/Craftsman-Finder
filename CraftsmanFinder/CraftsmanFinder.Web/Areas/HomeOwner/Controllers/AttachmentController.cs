@@ -24,7 +24,7 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             var jobRequest = await _unitOfWork.JobRequests.GetFirstorDefaultsync(x=>x.Id == id);
             if (jobRequest == null)
             {
-                return NotFound("JobRequest not found.");
+                return View("/Views/Shared/NotFound.cshtml");
             }
 
             var existingAttachments = await _unitOfWork.Attachments.GetAttachmentsByJobRequestIdAsync(id);
@@ -43,7 +43,6 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
         [HttpPost]
         public async Task<IActionResult> UpdateAttachments(int jobRequestId, List<int> attachmentsToRemove, List<IFormFile> newAttachments)
         {
-            // Remove selected attachments
             if (attachmentsToRemove != null && attachmentsToRemove.Count > 0)
             {
                 foreach (var attachmentId in attachmentsToRemove)

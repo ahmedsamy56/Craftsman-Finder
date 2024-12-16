@@ -19,6 +19,10 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
         public async Task<IActionResult> Index(string id)
         {
             var model = await _unitOfWork.ApplicationUsers.GetHomeOwnerProfileAsync(id);
+            if (model == null)
+            {
+                return View("/Views/Shared/NotFound.cshtml");
+            }
             return View(model);
         }
     }

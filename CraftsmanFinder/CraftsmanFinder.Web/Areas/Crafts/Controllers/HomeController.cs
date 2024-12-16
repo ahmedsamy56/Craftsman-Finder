@@ -23,15 +23,16 @@ namespace CraftsmanFinder.Web.Areas.Crafts.Controllers
         {
             var userId = _userManager.GetUserId(User);
             var user = await _unitOfWork.ApplicationUsers.GetFirstorDefaultsync(x=>x.Id ==  userId);
-            if (user == null || user.CategoryId == null)
+            if(user == null)
+            {
+                return View("/Views/Shared/NotFound.cshtml");
+            }
+            if (user.CategoryId == null)
             {
                 return RedirectToAction("CompleteProfile");
             }
 
-
             var jobRequests = await _unitOfWork.JobRequests.GetByCategoryAndStatusAsync(user.CategoryId.Value);
-
-            
             return View(jobRequests);
         }
 
