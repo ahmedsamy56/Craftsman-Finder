@@ -50,19 +50,18 @@ namespace CraftsmanFinder.Web
             app.MapStaticAssets();
             app.MapControllers();
             app.MapControllerRoute(
-           name: "HomeOwner",
-           pattern: "{area=HomeOwner}/{controller=Home}/{action=Index}/{id?}");
+              name: "HomeOwner",
+              pattern: "{area:exists}/{controller=Home}/{action=Landing}/{id?}",
+              defaults: new { area = "HomeOwner" });
             app.MapControllerRoute(
-            name: "Crafts",
-            pattern: "{area=Crafts}/{controller=Home}/{action=Index}/{id?}");
+               name: "Crafts",
+               pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}",
+               defaults: new { area = "Crafts" });
             app.MapControllerRoute(
-              name: "default",
-              pattern: "{controller=Home}/{action=Index}/{id?}");
+                name: "Admin",
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}",
+                defaults: new { area = "Admin" });
          
-           
-           
-           
-
             app.Run();
         }
     }

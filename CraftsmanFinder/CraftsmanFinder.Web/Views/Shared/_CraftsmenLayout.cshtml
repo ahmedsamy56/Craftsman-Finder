@@ -59,13 +59,16 @@
         <div class="container">
             @if (User.IsInRole(SD.CraftsmenRole))
             {
-                <a class="navbar-brand" href="/Crafts/Home/Index">CraftsmanFinder</a>
+                <a class="navbar-brand" href="/Crafts/Home/Index">Craftsman Finder</a>
             }
             else if (User.IsInRole(SD.HomeOwnerRole))
             {
-                <a class="navbar-brand" href="/HomeOwner/Home/Index">CraftsmanFinder</a>
+                <a class="navbar-brand" href="/HomeOwner/Home/Index">Craftsman Finder</a>
+            }
+            else if (User.IsInRole(SD.AdminRole)){
+                <a class="navbar-brand" href="/Admin/Home/Index">Craftsman Finder</a>
             }else{
-                <a class="navbar-brand" href="/Admin/Home/Index">CraftsmanFinder</a>
+                <a class="navbar-brand" href="/HomeOwner/Home/Landing">Craftsman Finder</a>
             }
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -77,6 +80,8 @@
                     else if (User.IsInRole(SD.HomeOwnerRole))
                     {
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/HomeOwner/Home/Index">Home</a></li>
+                    }else if(User.IsInRole(SD.AdminRole)){
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Admin/Home/Index">Home</a></li>
                     }
                     <partial name="_LoginPartial" />
                     @if (User.IsInRole(SD.CraftsmenRole) || User.IsInRole(SD.HomeOwnerRole)){

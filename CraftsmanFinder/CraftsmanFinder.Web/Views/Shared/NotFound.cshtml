@@ -1,4 +1,13 @@
-﻿@{
+﻿@using CraftsmanFinder.Entities.Models
+@using CraftsmanFinder.Utilities
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+
+@{
     Layout = "";
 }
 
@@ -26,7 +35,15 @@
                 <p class="lead">
                     The page you’re looking for doesn’t exist.
                 </p>
-                <a href="index.html" class="btn btn-primary">Go Home</a>
+                @if(User.IsInRole(SD.HomeOwnerRole)){
+                    <a href="/HomeOwner/Home/Index" class="btn btn-primary">Go Home</a>
+                }else if(User.IsInRole(SD.CraftsmenRole)){
+                    <a href="/Crafts/Home/Index" class="btn btn-primary">Go Home</a>
+                }else if(User.IsInRole(SD.AdminRole)){
+                    <a href="/Admin/Home/Index" class="btn btn-primary">Go Home</a>
+                }else{
+                    <a href="index.html" class="btn btn-primary">Go Home</a>
+                }
             </div>
 
         </div>

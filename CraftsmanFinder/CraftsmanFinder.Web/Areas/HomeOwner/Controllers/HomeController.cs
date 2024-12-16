@@ -21,5 +21,12 @@ namespace CraftsmanFinder.Web.Areas.HomeOwner.Controllers
             return View(categories);
         }
 
+
+        [AllowAnonymous]
+        public async Task<IActionResult> Landing()
+        {
+            var Categories = await _unitOfWork.Categories.GetAllAsync();
+            return View(Categories);
+        }
     }
 }

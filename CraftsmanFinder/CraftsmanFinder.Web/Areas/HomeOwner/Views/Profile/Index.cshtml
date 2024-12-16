@@ -66,7 +66,7 @@
                                     </p>
                                     <p class="card-text"><small class="text-muted">Created at: @job.Created.ToString("MMMM yyyy")</small></p>
                                     <div class="text-end mt-4">
-                                        <a href="@Url.Action("JobRequestDetails", "JobRequest", new { id = job.Id })" class="btn btn-success">View</a>
+                                        <a href="/HomeOwner/JobRequest/JobRequestDetails/@job.Id" class="btn btn-success">View</a>
                                         @if (job.ApplicationUserId == @User.FindFirstValue(ClaimTypes.NameIdentifier))
                                         {
                                             <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal" data-jobid="@job.Id">Delete</button>
