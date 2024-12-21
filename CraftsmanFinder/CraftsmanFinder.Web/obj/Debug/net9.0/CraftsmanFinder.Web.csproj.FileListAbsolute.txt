@@ -834,3 +834,4 @@ C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.W
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\obj\Debug\net9.0\compressed\r8ksmy85wm-33z6q9z31h.gz
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\obj\Debug\net9.0\compressed\7xrcseenvt-rszun4iext.gz
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\obj\Debug\net9.0\compressed\201eai7x13-l5o0ocrnlv.gz
+C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Web\obj\Debug\net9.0\CraftsmanFinder.Web.sourcelink.json

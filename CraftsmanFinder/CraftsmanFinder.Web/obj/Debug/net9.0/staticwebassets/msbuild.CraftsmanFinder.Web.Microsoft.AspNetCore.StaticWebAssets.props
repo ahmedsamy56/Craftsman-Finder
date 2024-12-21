@@ -4950,6 +4950,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\62557ece-ecb5-48c8-9c3b-48ce6fa5e8bd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/Attachments/62557ece-ecb5-48c8-9c3b-48ce6fa5e8bd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kylj6qaczz</Fingerprint>
+      <Integrity>7APd2xemWQQ0+N7JECmyjKNHX8yecgxUpdJ278q1z14=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\62557ece-ecb5-48c8-9c3b-48ce6fa5e8bd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CraftsmanFinder.Web</SourceId>
@@ -4967,6 +4985,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\698b89d7-7a97-45ba-856d-d5aa3295762e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/Attachments/698b89d7-7a97-45ba-856d-d5aa3295762e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1toxokhk93</Fingerprint>
+      <Integrity>1fO1vzkMos41njoftSOa1+VXJ9RRNXj5zs19EWYP7DM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\698b89d7-7a97-45ba-856d-d5aa3295762e.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg'))">
       <SourceType>Package</SourceType>
@@ -5003,6 +5039,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\e308c7c8-d3f7-4736-b0f8-1d1b43b2fa84.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/Attachments/e308c7c8-d3f7-4736-b0f8-1d1b43b2fa84.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>j4vyn0rene</Fingerprint>
+      <Integrity>E3lzJV/vuv42VVWnO68Yc3Lq2irgF5ba67u9kYXo73k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Attachments\e308c7c8-d3f7-4736-b0f8-1d1b43b2fa84.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Category\03dfa404-7b06-4e89-bf12-554b07e4d81a_0.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/Category/03dfa404-7b06-4e89-bf12-554b07e4d81a_0.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qos0mf3izg</Fingerprint>
+      <Integrity>OrOEtCs+D7B1YTVIEUUsR4kIqqZvC2JuYfEWQ4LFHF8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Category\03dfa404-7b06-4e89-bf12-554b07e4d81a_0.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Category\17d24bde-08ed-4bef-b071-4e9ceda66f46_WIN_20230825_01_39_27_Pro.jpg'))">
       <SourceType>Package</SourceType>
@@ -5094,6 +5166,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/certificates/6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8iaa94rqfe</Fingerprint>
+      <Integrity>UEO3SOVomh22twFpKtbRmprY75Lg6CKWg/pQRYAFcGU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CraftsmanFinder.Web</SourceId>
@@ -5112,6 +5202,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/certificates/719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1kpnf10t7f</Fingerprint>
+      <Integrity>ITTcp6trIgYbETETi4H+49AeFmyKGNvJfakana/lZmI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\certificates\719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CraftsmanFinder.Web</SourceId>
@@ -5129,6 +5237,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\78e242b5-00e5-4021-92f5-4aadb76e012a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/profile/78e242b5-00e5-4021-92f5-4aadb76e012a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>45ytioqxwi</Fingerprint>
+      <Integrity>GOQnsWgr0URdPZHTFOPC+m9calf/w9RazfVCI7zJeh0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\78e242b5-00e5-4021-92f5-4aadb76e012a.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\9d373f8d-66b2-4947-8907-096984a41d23.png'))">
       <SourceType>Package</SourceType>
@@ -5183,6 +5309,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\c4f029d3-3f1d-48d4-a5d2-09204330df55.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\c813d020-811d-4f26-ba40-568ab09bc60f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CraftsmanFinder.Web</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CraftsmanFinder.Web</BasePath>
+      <RelativePath>uploads/profile/c813d020-811d-4f26-ba40-568ab09bc60f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mvsij3m5d7</Fingerprint>
+      <Integrity>suFPfsHMRhIAhNJtzmWM5BUxJeU7yyyuvzhDW1VmbxE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\c813d020-811d-4f26-ba40-568ab09bc60f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile\d167eba8-cdd4-42c4-a022-5d7278592041.jpg'))">
       <SourceType>Package</SourceType>

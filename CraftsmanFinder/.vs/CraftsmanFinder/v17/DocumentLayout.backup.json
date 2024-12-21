@@ -7,60 +7,28 @@
       "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\views\\shared\\_athalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\shared\\_athalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\views\\shared\\_craftsmenlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\shared\\_craftsmenlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\homeowner\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\homeowner\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\homeowner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\homeowner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\admin\\views\\jobrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\admin\\views\\jobrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\homeowner\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\homeowner\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\crafts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\crafts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\crafts\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\crafts\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\homeowner\\controllers\\jobrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\homeowner\\controllers\\jobrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\homeowner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\homeowner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\views\\shared\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\shared\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\areas\\crafts\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\areas\\crafts\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|c:\\users\\ahmed\\desktop\\craftsman finder system\\craftsmanfinder\\craftsmanfinder.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED3D024-480F-454A-899F-777A8639CD50}|CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj|solutionrelative:craftsmanfinder.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,180 +46,88 @@
               "Title": "_dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml",
               "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml*",
+              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\_dashboard.cshtml*",
+              "ViewState": "AgIAAB8AAAAAAAAAAABgPTcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:28:00.537Z",
+              "WhenOpened": "2024-12-19T22:22:34.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_AthaLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_AthaLayout.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Shared\\_AthaLayout.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_AthaLayout.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\_AthaLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:27:55.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_CraftsmenLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_CraftsmenLayout.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Shared\\_CraftsmenLayout.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_CraftsmenLayout.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\_CraftsmenLayout.cshtml",
-              "ViewState": "AgIAAA0AAAAARTMzMzPrv0QAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:21:04.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Landing.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Landing.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Landing.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Landing.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Landing.cshtml",
-              "ViewState": "AgIAAD0AAAAAmJmZmVkqwE0AAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:18:01.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwPRgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T02:16:15.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAADAAAACAAwAAAIApwEIAAACNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:03:51.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAHUAAAAAxczMzMwnwIUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T02:03:01.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Program.cs",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Program.cs",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Program.cs",
-              "ViewState": "AgIAACEAAACAZmZmZuYjwDsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T01:59:23.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAsAAADAY2ZmZmYkwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:46:14.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:45:30.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAqwKcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAmJmZmZkOwE4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:41:04.771Z"
+              "WhenOpened": "2024-12-19T22:22:11.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Admin\\Views\\JobRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Admin\\Views\\JobRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Admin\\Views\\JobRequest\\Index.cshtml*",
+              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Admin\\Views\\JobRequest\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:20:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFQAAAAANDMzMzMbwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:18:05.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Crafts\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T22:10:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\JobRequestController.cs",
+              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\JobRequestController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\JobRequestController.cs",
+              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\HomeOwner\\Controllers\\JobRequestController.cs",
+              "ViewState": "AgIAAB4AAAAAMDMzM7MZwCsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T01:38:59.081Z"
+              "WhenOpened": "2024-12-16T15:26:38.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CertificateController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Controllers\\CertificateController.cs",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Areas\\Crafts\\Controllers\\CertificateController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Areas\\Crafts\\Controllers\\CertificateController.cs",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Areas\\Crafts\\Controllers\\CertificateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T01:13:54.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:10:07.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NotFound.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\NotFound.cshtml",
-              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\Views\\Shared\\NotFound.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\Views\\Shared\\NotFound.cshtml",
-              "RelativeToolTip": "CraftsmanFinder.Web\\Views\\Shared\\NotFound.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:09:59.193Z"
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CraftsmanFinder.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\appsettings.json",
+              "RelativeToolTip": "CraftsmanFinder.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T14:47:29.592Z"
             }
           ]
         }
