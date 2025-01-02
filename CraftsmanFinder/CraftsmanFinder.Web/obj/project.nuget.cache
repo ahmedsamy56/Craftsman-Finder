@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPtbLYrGAEs=",
+  "dgSpecHash": "QroMrQ+DBt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
+  "projectFilePath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

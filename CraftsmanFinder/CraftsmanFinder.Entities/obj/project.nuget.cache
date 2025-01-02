@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4wEfRLJyjEs=",
+  "dgSpecHash": "rWDobWaUXNQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
+  "projectFilePath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

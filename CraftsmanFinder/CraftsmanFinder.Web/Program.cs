@@ -30,6 +30,7 @@ namespace CraftsmanFinder.Web
             builder.Services.AddRazorPages();
             builder.Services.AddSingleton<IEmailSender, EmailSender>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            
 
             var app = builder.Build();
 

@@ -10,3 +10,16 @@ C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.E
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\refint\CraftsmanFinder.Entities.dll
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.pdb
 C:\Users\ahmed\Desktop\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\ref\CraftsmanFinder.Entities.dll
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.deps.json
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.dll
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\bin\Debug\net9.0\CraftsmanFinder.Entities.pdb
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.csproj.AssemblyReference.cache
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.AssemblyInfoInputs.cache
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.AssemblyInfo.cs
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.csproj.CoreCompileInputs.cache
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.sourcelink.json
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.dll
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\refint\CraftsmanFinder.Entities.dll
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\CraftsmanFinder.Entities.pdb
+D:\مشاريع قديمة\Craftsman Finder System\CraftsmanFinder\CraftsmanFinder.Entities\obj\Debug\net9.0\ref\CraftsmanFinder.Entities.dll

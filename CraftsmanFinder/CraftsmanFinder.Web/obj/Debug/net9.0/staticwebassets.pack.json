@@ -1,1195 +1,1207 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CraftsmanFinder.Web.bundle.scp.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CraftsmanFinder.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\CraftsmanFinder.Web.kmexj47fnp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\css\\style.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\css\\style.css",
       "PackagePath": "staticwebassets\\AuthLayout\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\css\\style.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\css\\style.css.map",
       "PackagePath": "staticwebassets\\AuthLayout\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.css",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-600.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
       "PackagePath": "staticwebassets\\AuthLayout\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\images\\signin-image.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\images\\signin-image.jpg",
       "PackagePath": "staticwebassets\\AuthLayout\\images\\signin-image.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\images\\signup-image.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\AuthLayout\\images\\signup-image.jpg",
       "PackagePath": "staticwebassets\\AuthLayout\\images\\signup-image.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\css\\site.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\adminlte.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.components.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.components.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.core.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.core.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.light.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.light.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.pages.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\css\\alt\\adminlte.plugins.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\AdminLTELogo.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\AdminLTELogo.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\AdminLTELogo.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar2.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar2.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar2.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar3.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar3.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar3.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar4.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar4.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar4.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar5.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\avatar5.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\avatar5.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\boxed-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\boxed-bg.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\boxed-bg.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\american-express.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\american-express.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\american-express.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\cirrus.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\cirrus.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\cirrus.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\mastercard.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\mastercard.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal2.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\paypal2.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\paypal2.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\visa.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\credit\\visa.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\credit\\visa.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\default-150x150.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\default-150x150.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\default-150x150.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\icons.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\icons.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\icons.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo1.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo1.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo1.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo2.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo2.png",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo2.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo3.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo3.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo4.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\photo4.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\photo4.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-1.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-1.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-2.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-2.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-3.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-3.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-4.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-4.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-5.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\prod-5.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\prod-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user1-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user1-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user1-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user2-160x160.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user2-160x160.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user3-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user3-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user3-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user4-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user4-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user4-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user5-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user5-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user5-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user6-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user6-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user6-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user7-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user7-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user7-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user8-128x128.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\img\\user8-128x128.jpg",
       "PackagePath": "staticwebassets\\dashboard\\dist\\img\\user8-128x128.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\.eslintrc.json",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\.eslintrc.json"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.js.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\adminlte.min.js.map",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\adminlte.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\demo.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\demo.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\demo.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard2.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard2.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard2.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard3.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\dist\\js\\pages\\dashboard3.js",
       "PackagePath": "staticwebassets\\dashboard\\dist\\js\\pages\\dashboard3.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\all.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\dashboard\\plugins\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\dashboard\\plugins\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\favicon.ico",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\images\\error-NotFound.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\images\\error-NotFound.jpg",
       "PackagePath": "staticwebassets\\images\\error-NotFound.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\js\\site.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\62557ece-ecb5-48c8-9c3b-48ce6fa5e8bd.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\62557ece-ecb5-48c8-9c3b-48ce6fa5e8bd.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\10abb682-0933-4961-acef-752e7f81e024.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\10abb682-0933-4961-acef-752e7f81e024.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\66466a46-d183-4e7e-90f5-3698025bd4d7.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\59ebb4fb-373e-43f2-83b2-b4d8b26a8110.png",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\59ebb4fb-373e-43f2-83b2-b4d8b26a8110.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\698b89d7-7a97-45ba-856d-d5aa3295762e.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\698b89d7-7a97-45ba-856d-d5aa3295762e.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\9858a37c-a0b6-4915-89a5-f17b5a46d160.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\9858a37c-a0b6-4915-89a5-f17b5a46d160.jpeg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\8f37a66c-ac3c-402c-a2e9-d9cedba93ce5.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\bcaab677-43ba-4d24-abba-0475b2960c61.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\bcaab677-43ba-4d24-abba-0475b2960c61.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\a467617b-1983-4b8b-93e4-02f1a2cee11d.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\efe5f7ca-8c85-4bea-bda6-177f61a8a43e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\efe5f7ca-8c85-4bea-bda6-177f61a8a43e.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\e308c7c8-d3f7-4736-b0f8-1d1b43b2fa84.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Attachments\\e308c7c8-d3f7-4736-b0f8-1d1b43b2fa84.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Attachments\\f5f32f6a-f89e-423e-ad48-473899b1ade3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Attachments\\f5f32f6a-f89e-423e-ad48-473899b1ade3.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\03dfa404-7b06-4e89-bf12-554b07e4d81a_0.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Category\\03dfa404-7b06-4e89-bf12-554b07e4d81a_0.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\788cb317-71e9-4ac6-9f38-f4891fc7d9c0_electrician-holding-lightning-bolt-mascot-circle-black-and-white-vector.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Category\\788cb317-71e9-4ac6-9f38-f4891fc7d9c0_electrician-holding-lightning-bolt-mascot-circle-black-and-white-vector.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\17d24bde-08ed-4bef-b071-4e9ceda66f46_WIN_20230825_01_39_27_Pro.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Category\\17d24bde-08ed-4bef-b071-4e9ceda66f46_WIN_20230825_01_39_27_Pro.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\a46a8bfe-965e-4612-85d6-65e0b510eadd_png-transparent-plumbing-plumber-tap-faucet-wrench-logo-blue-free-logo-design-template-technic-thumbnail-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\Category\\a46a8bfe-965e-4612-85d6-65e0b510eadd_png-transparent-plumbing-plumber-tap-faucet-wrench-logo-blue-free-logo-design-template-technic-thumbnail-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg",
-      "PackagePath": "staticwebassets\\uploads\\Category\\ad1fbb27-fd83-4cf5-98c1-3e643738c286_WIN_20240903_01_26_48_Pro.jpg"
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\Category\\ff3b424f-fe9e-4c7f-86e8-0e5c84d1a5e8_blacksmith-logo-vector-41955967-removebg-preview.png",
+      "PackagePath": "staticwebassets\\uploads\\Category\\ff3b424f-fe9e-4c7f-86e8-0e5c84d1a5e8_blacksmith-logo-vector-41955967-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\075bceee-018e-412f-bae4-93c274f9b6bd.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\075bceee-018e-412f-bae4-93c274f9b6bd.png",
       "PackagePath": "staticwebassets\\uploads\\certificates\\075bceee-018e-412f-bae4-93c274f9b6bd.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg",
       "PackagePath": "staticwebassets\\uploads\\certificates\\1b26d51b-b0f2-4135-8fab-f0883f696f9f.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg",
       "PackagePath": "staticwebassets\\uploads\\certificates\\4cf34217-4fa7-4edb-8b3d-e7ecc0343536.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg",
       "PackagePath": "staticwebassets\\uploads\\certificates\\6f8d78a1-1ec7-400a-96ac-ade5da9d2ac8.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg",
       "PackagePath": "staticwebassets\\uploads\\certificates\\71171e49-cade-40c3-a1d8-e4eea86bd066.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg",
       "PackagePath": "staticwebassets\\uploads\\certificates\\719c0749-bc6f-426d-bc4f-97aba70dff2e.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\certificates\\8fea5868-6eb4-4794-9d07-7971f7180d6f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\certificates\\8fea5868-6eb4-4794-9d07-7971f7180d6f.jpg"
+    },
+    {
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\2b250dbd-8318-42bf-8d06-e7b5cb494ec8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile\\2b250dbd-8318-42bf-8d06-e7b5cb494ec8.jpg"
+    },
+    {
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png",
       "PackagePath": "staticwebassets\\uploads\\profile\\36212bfe-0fbd-472a-9990-86d4bb5c2d7c.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\78e242b5-00e5-4021-92f5-4aadb76e012a.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\5d155637-1aaa-453b-950f-6ed669889c90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile\\5d155637-1aaa-453b-950f-6ed669889c90.jpg"
+    },
+    {
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\78e242b5-00e5-4021-92f5-4aadb76e012a.png",
       "PackagePath": "staticwebassets\\uploads\\profile\\78e242b5-00e5-4021-92f5-4aadb76e012a.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\9d373f8d-66b2-4947-8907-096984a41d23.png",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\9d373f8d-66b2-4947-8907-096984a41d23.png",
       "PackagePath": "staticwebassets\\uploads\\profile\\9d373f8d-66b2-4947-8907-096984a41d23.png"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\b9ea4a3c-14ac-4c22-915a-0b501b309935.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\b9ea4a3c-14ac-4c22-915a-0b501b309935.jpg",
       "PackagePath": "staticwebassets\\uploads\\profile\\b9ea4a3c-14ac-4c22-915a-0b501b309935.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\c4f029d3-3f1d-48d4-a5d2-09204330df55.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\c4f029d3-3f1d-48d4-a5d2-09204330df55.jpg",
       "PackagePath": "staticwebassets\\uploads\\profile\\c4f029d3-3f1d-48d4-a5d2-09204330df55.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\c813d020-811d-4f26-ba40-568ab09bc60f.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\c813d020-811d-4f26-ba40-568ab09bc60f.jpg",
       "PackagePath": "staticwebassets\\uploads\\profile\\c813d020-811d-4f26-ba40-568ab09bc60f.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\d167eba8-cdd4-42c4-a022-5d7278592041.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\d167eba8-cdd4-42c4-a022-5d7278592041.jpg",
       "PackagePath": "staticwebassets\\uploads\\profile\\d167eba8-cdd4-42c4-a022-5d7278592041.jpg"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\f7f590b6-f1c3-481e-97d0-862e823c47bb.jpg",
+      "Id": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\wwwroot\\uploads\\profile\\f7f590b6-f1c3-481e-97d0-862e823c47bb.jpg",
       "PackagePath": "staticwebassets\\uploads\\profile\\f7f590b6-f1c3-481e-97d0-862e823c47bb.jpg"
     },
     {

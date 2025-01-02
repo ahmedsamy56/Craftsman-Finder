@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj": {}
+    "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj": {
+    "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj",
+        "projectUniqueName": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj",
         "projectName": "CraftsmanFinder.DataAccess",
-        "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj",
+        "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\obj\\",
+        "outputPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj": {
-                "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj"
+              "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj": {
+                "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj"
               },
-              "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj"
+              "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
+                "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj": {
+    "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
+        "projectUniqueName": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
         "projectName": "CraftsmanFinder.Entities",
-        "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
+        "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\CraftsmanFinder.Entities.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\obj\\",
+        "outputPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
+    "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj",
+        "projectUniqueName": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj",
         "projectName": "CraftsmanFinder.Utilities",
-        "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj",
+        "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\obj\\",
+        "outputPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj": {
+    "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
+        "projectUniqueName": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
         "projectName": "CraftsmanFinder.Web",
-        "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
+        "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\CraftsmanFinder.Web.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\obj\\",
+        "outputPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -282,11 +282,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj"
+              "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj": {
+                "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.DataAccess\\CraftsmanFinder.DataAccess.csproj"
               },
-              "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ahmed\\Desktop\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj"
+              "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj": {
+                "projectPath": "D:\\مشاريع قديمة\\Craftsman Finder System\\CraftsmanFinder\\CraftsmanFinder.Utilities\\CraftsmanFinder.Utilities.csproj"
               }
             }
           }
